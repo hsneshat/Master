@@ -1,0 +1,51 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI"
+    x:Class="PivotApp1.SecondPage"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <Grid x:Name="LayoutRoot">
+        <!--   <Grid.Background>
+            <ImageBrush ImageSource="background.jpg"/>
+        </Grid.Background>
+     -->
+        <phone:Pivot x:Name="recepie" Margin="0,10,0,89" Title="pivot" FlowDirection="RightToLeft">
+            <phone:PivotItem x:Name="ingridiants" CacheMode="{x:Null}" Header="مواد لازم">
+                <ScrollViewer FlowDirection="RightToLeft" Margin="0,0,-11,0" FontFamily="Portable User Interface">
+                    <TextBlock x:Name="ingridiantsTextBox" TextWrapping="Wrap" Text="TextBlock" FontSize="28" FlowDirection="RightToLeft"/>
+                </ScrollViewer>
+            </phone:PivotItem>
+            <phone:PivotItem x:Name="recipe" CacheMode="{x:Null}" Header="طرز تهیه">
+                <ScrollViewer FlowDirection="RightToLeft" Margin="0,0,-11,0" FontFamily="Portable User Interface">
+                    <TextBlock x:Name="recTextBox" TextWrapping="Wrap" Text="TextBlock" FontSize="28" FlowDirection="RightToLeft"/>
+                </ScrollViewer>
+            </phone:PivotItem>
+            <!--            <phone:PivotItem x:Name="pictures" CacheMode="{x:Null}" Header="تصاویر">
+                <Grid>
+                    <ScrollViewer Margin="12,10,12,12">
+                        <StackPanel>
+                            <Image x:Name="image1" />
+                            <Image x:Name="image2" />
+                            <Image x:Name="image3" />
+                            <Image x:Name="image4" />
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PivotItem> -->
+        </phone:Pivot>
+        <Grid HorizontalAlignment="Stretch" Height="86" Margin="0,682,0,0" VerticalAlignment="Stretch" Width="480">
+            <UI:AdControl ApplicationId="7da12f12-24a9-4d2e-afca-e07a4cc84f77" AdUnitId="11394070" Height="80" Width="480"/>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>
