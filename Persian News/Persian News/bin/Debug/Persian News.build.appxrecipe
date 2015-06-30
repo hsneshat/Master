@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HAMEDSA-DEV</Machine>
+    <WindowsUser>hamedsa</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>54108HamedSN.FarsiNews</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\Persian News.exe">
+      <PackagePath>Persian News.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\asriran.jpeg">
+      <PackagePath>Assets\asriran.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\varzesh3.jpeg">
+      <PackagePath>Assets\varzesh3.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\bbc.png">
+      <PackagePath>Assets\bbc.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\dw.png">
+      <PackagePath>Assets\dw.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\fars.png">
+      <PackagePath>Assets\fars.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\icon.scale-100.png">
+      <PackagePath>Assets\icon.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\icon120.png">
+      <PackagePath>Assets\icon120.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\kalame.png">
+      <PackagePath>Assets\kalame.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\logoSmall.png">
+      <PackagePath>Assets\logoSmall.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\mehr.png">
+      <PackagePath>Assets\mehr.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\Tabnak.png">
+      <PackagePath>Assets\Tabnak.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\tala.png">
+      <PackagePath>Assets\tala.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\booltan.jpg">
+      <PackagePath>Assets\booltan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\eghtesadonline.jpg">
+      <PackagePath>Assets\eghtesadonline.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\euro.jpg">
+      <PackagePath>Assets\euro.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\hamshahrionline.jpg">
+      <PackagePath>Assets\hamshahrionline.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\ilna.jpg">
+      <PackagePath>Assets\ilna.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\irib.jpg">
+      <PackagePath>Assets\irib.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\irinn.jpg">
+      <PackagePath>Assets\irinn.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\irna.jpg">
+      <PackagePath>Assets\irna.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\isna.jpg">
+      <PackagePath>Assets\isna.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\khabar.jpg">
+      <PackagePath>Assets\khabar.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\khordad.jpg">
+      <PackagePath>Assets\khordad.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\tasnim.jpg">
+      <PackagePath>Assets\tasnim.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\voa.jpg">
+      <PackagePath>Assets\voa.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\zamaneh.jpg">
+      <PackagePath>Assets\zamaneh.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\about.xbf">
+      <PackagePath>about.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\Browser.xbf">
+      <PackagePath>Browser.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-180"
+"ResourceDimensions"		"scale-180"
+
+[Files]
+"C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Debug\split.scale-180.pri"			"resources.pri"
+"C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Debug\PackageLayout\Assets\SplashScreen.scale-180.png"			"Assets\SplashScreen.scale-180.png"

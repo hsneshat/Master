@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-sk"
+"ResourceDimensions"		"language-sk"
+
+[Files]
+"C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Release\split.language-sk.pri"			"resources.pri"

@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-bg"
+"ResourceDimensions"		"language-bg"
+
+[Files]
+"C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Release\split.language-bg.pri"			"resources.pri"

@@ -1,0 +1,63 @@
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\bin\Debug\App.xbf
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\bin\Debug\GroupedItemsPage.xbf
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\bin\Debug\GroupDetailPage.xbf
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\bin\Debug\ItemDetailPage.xbf
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\bin\Debug\Persian News.exe
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\bin\Debug\Persian News.pdb
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\bin\Debug\resources.pri
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\bin\Debug\AppxManifest.xml
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\bin\Debug\Persian News.build.appxrecipe
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\App.g.i.cs
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\App.g.cs
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\GroupedItemsPage.g.i.cs
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\GroupedItemsPage.g.cs
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\GroupDetailPage.g.i.cs
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\GroupDetailPage.g.cs
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\ItemDetailPage.g.i.cs
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\ItemDetailPage.g.cs
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\XamlTypeInfo.g.cs
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\App.xaml
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\GroupedItemsPage.xaml
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\GroupDetailPage.xaml
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\ItemDetailPage.xaml
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\App.xbf
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\GroupedItemsPage.xbf
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\GroupDetailPage.xbf
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\ItemDetailPage.xbf
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\XamlSaveStateFile.xml
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\Persian News.exe
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\Persian News.pdb
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\priconfig.xml
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\priconfig.xml.intermediate
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\layout.resfiles
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\layout.resfiles.intermediate
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\resources.resfiles
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\resources.resfiles.intermediate
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\pri.resfiles
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\pri.resfiles.intermediate
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\qualifiers.txt
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\qualifiers.txt.intermediate
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\ProjectArchitectures.txt
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\Common\StandardStyles.g.cs
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\obj\Debug\Common\StandardStyles.xaml
+c:\users\hamedsa\documents\visual studio 2013\Projects\Persian News\Persian News\bin\Debug\Common\StandardStyles.xbf
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\MicrosoftAdvertising.winmd
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\MicrosoftAdvertising.xml
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\about.xbf
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Debug\about.g.i.cs
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Debug\about.g.cs
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Debug\about.xaml
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Debug\about.xbf
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Debug\Persian News.csproj.GenerateResource.Cache
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Debug\Browser.xbf
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Debug\Browser.g.i.cs
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Debug\Browser.g.cs
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Debug\Browser.xaml
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Debug\Browser.xbf
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Debug\Common\StandardStyles.xbf

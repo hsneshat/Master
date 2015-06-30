@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-tg-cyrl"
+"ResourceDimensions"		"language-tg-cyrl-tj"
+
+[Files]
+"C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Release\split.language-tg-cyrl.pri"			"resources.pri"

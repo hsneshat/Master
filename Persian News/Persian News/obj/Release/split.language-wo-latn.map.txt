@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-wo-latn"
+"ResourceDimensions"		"language-wo"
+
+[Files]
+"C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Release\split.language-wo-latn.pri"			"resources.pri"

@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ha-latn"
+"ResourceDimensions"		"language-ha-latn"
+
+[Files]
+"C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\obj\Release\split.language-ha-latn.pri"			"resources.pri"

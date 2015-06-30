@@ -1,0 +1,218 @@
+﻿{
+    "Groups":[
+    {
+        "UniqueId": "Group-1",
+        "Title": "خبرگزاری های داخلی",
+        "Subtitle": "",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+        "Items":
+        [
+        {
+            "UniqueId": "Group-1-Item-1",
+            "Title": "ایسنا",
+            "Subtitle": "www.isna.ir",
+            "ImagePath": "Assets/isna.jpg",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://www.isna.ir/fa/all/feed"
+        }
+        ,
+        {
+            "UniqueId": "Group-1-Item-2",
+            "Title": "ایلنا",
+            "Subtitle": "www.ilna.ir",
+            "ImagePath": "Assets/ilna.jpg",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://www.ilna.ir/feeds/"
+        }
+        ,
+		{
+            "UniqueId": "Group-1-Item-3",
+            "Title": "همشهری",
+            "Subtitle": "www.hamshahrionline.ir",
+            "ImagePath": "Assets/hamshahrionline.jpg",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://www.hamshahrionline.ir/rss"
+        }
+		,
+		{
+            "UniqueId": "Group-1-Item-4",
+            "Title": "خبرگزاری صداوسیما ",
+            "Subtitle": "www.irib.ir",
+            "ImagePath": "Assets/irib.jpg",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://www.iribnews.ir/RSS/RSS_AllSiteNews.aspx"
+        }
+		
+        ,
+        {
+            "UniqueId": "Group-1-Item-5",
+            "Title": "شبکه خبر",
+            "Subtitle": "www.mehr.ir",
+            "ImagePath": "Assets/irinn.jpg",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://www.irinn.ir/feed/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1"
+        }
+        ,
+        {
+            "UniqueId": "Group-1-Item-6",
+            "Title": "ایرنا",
+            "Subtitle": "www.irna.ir",
+            "ImagePath": "Assets/irna.jpg",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://irna.ir/fa/rss.aspx?kind=-1"
+        }
+        ,
+		 {
+            "UniqueId": "Group-1-Item-7",
+            "Title": "ورزش سه",
+            "Subtitle": "www.varzesh3.com",
+            "ImagePath": "Assets/varzesh3.jpeg",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://www.varzesh3.com/rss/rss.xml?ts=1435298477"
+        }
+        ,
+		
+        {
+            "UniqueId": "Group-1-Item-8",
+            "Title": "خبرآنلاین",
+            "Subtitle": "khabaronline.ir",
+            "ImagePath": "Assets/khabar.jpg",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://khabaronline.ir/rss"
+        }
+		,
+		
+        {
+            "UniqueId": "Group-1-Item-9",
+            "Title": "خبرگزاری مهر",
+            "Subtitle": "www.mehrnews.com",
+            "ImagePath": "Assets/mehr.png",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://www.mehrnews.com/rss"
+        }
+		,
+		
+        {
+            "UniqueId": "Group-1-Item-10",
+            "Title": "خبرگزاری تسنیم",
+            "Subtitle": "www.tasnimnews.com",
+            "ImagePath": "Assets/tasnim.jpg",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://www.tasnimnews.com/rss/feed/?c=1&m=6&alt=%D8%A2%D8%AE%D8%B1%DB%8C%D9%86%20%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1"
+        }
+		,
+		
+        {
+            "UniqueId": "Group-1-Item-10",
+            "Title": "خبرگزاری کلمه",
+            "Subtitle": "www.kaleme.org",
+            "ImagePath": "Assets/kalame.png",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://feeds.feedburner.com/kaleme/rss?format=xml"
+        }
+		,
+		
+        {
+            "UniqueId": "Group-1-Item-11",
+            "Title": "خبرگزاری فارس",
+            "Subtitle": "www.farsnews.com",
+            "ImagePath": "Assets/fars.png",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://www.farsnews.com/rss.php"
+        }
+		,
+		
+        {
+            "UniqueId": "Group-1-Item-12",
+            "Title": "طلا نیوز",
+            "Subtitle": "www.talanews.com",
+            "ImagePath": "Assets/tala.png",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://www.talanews.com/fa/component/option,com_ninjarsssyndicator/feed_id,1/format,raw/lang,fa/"
+        }
+		,
+		
+        {
+            "UniqueId": "Group-1-Item-13",
+            "Title": "اقتصاد آنلاین",
+            "Subtitle": "eghtesadonline.com",
+            "ImagePath": "Assets/eghtesadonline.jpg",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://www.eghtesadonline.com/fa/rss"
+        }
+		,
+		
+        {
+            "UniqueId": "Group-1-Item-14",
+            "Title": "خرداد",
+            "Subtitle": "khordadnews.ir",
+            "ImagePath": "Assets/khordad.jpg",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://khordadnews.ir/rss/"
+        }
+		
+
+
+		
+        ]
+    }
+    ,
+    {
+        "UniqueId": "Group-1",
+        "Title": "خبرگزاری های خارجی",
+        "Subtitle": "Group subtitle: 2",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+        "Items":
+        [
+        {
+            "UniqueId": "Group-2-Item-1",
+            "Title": "بی بی سی فارسی",
+            "Subtitle": "bbc.co.uk/persian",
+            "ImagePath": "Assets/bbc.png",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://www.bbc.com/persian/index.xml"
+        }
+        ,
+        {
+            "UniqueId": "Group-2-Item-2",
+            "Title": "دویچه وله فارسی",
+            "Subtitle": "www.dw.com/fa-ir",
+            "ImagePath": "Assets/dw.png",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://rss.dw.com/rdf/rss-per-all"
+        }
+        ,
+        {
+            "UniqueId": "Group-2-Item-3",
+            "Title": "یورو نیوز فارسی",
+            "Subtitle": "persian.euronews.com",
+            "ImagePath": "Assets/euro.jpg",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://feeds.feedburner.com/euronews/pe/news/"
+        }
+		,
+        {
+            "UniqueId": "Group-2-Item-4",
+            "Title": "رادیو زمانه",
+            "Subtitle": "www.radiozamaneh.com",
+            "ImagePath": "Assets/zamaneh.jpg",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://www.radiozamaneh.com/feed"
+        }
+		,
+        {
+            "UniqueId": "Group-2-Item-5",
+            "Title": "صدای آمریکا",
+            "Subtitle": "ir.voanews.com",
+            "ImagePath": "Assets/voa.jpg",
+            "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content" : "http://ir.voanews.com/api/epiqq"
+        }
+        ]
+    }
+   
+   
+    ]
+}

@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HAMEDSA-DEV</Machine>
+    <WindowsUser>hamedsa</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>54108HamedSN.FarsiNews</PackageIdentityName>
+    <RegisteredManifestChecksum>0E169741D86683EEF41C0C247D4FC14D455309C9FA1EF4C070492526213E27C8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>54108HamedSN.FarsiNews_1.1.0.4_neutral__ngv4na01sh338</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>54108HamedSN.FarsiNews_ngv4na01sh338!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>54108HamedSN.FarsiNews</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=A60B89C9-749B-4DEF-8454-E08D3A5B907C</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.4</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T19:23:52.751</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Release\Persian News.exe">
+      <PackagePath>Persian News.exe</PackagePath>
+      <Modified>2015-06-30T19:11:34.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2013-09-13T18:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-09-13T18:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2013-10-02T19:08:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2013-10-02T19:08:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2013-09-13T18:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2013-09-13T18:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2013-09-13T18:43:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2013-09-13T18:46:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\asriran.jpeg">
+      <PackagePath>Assets\asriran.jpeg</PackagePath>
+      <Modified>2015-06-25T23:17:15.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\varzesh3.jpeg">
+      <PackagePath>Assets\varzesh3.jpeg</PackagePath>
+      <Modified>2015-06-26T01:33:43.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\bbc.png">
+      <PackagePath>Assets\bbc.png</PackagePath>
+      <Modified>2015-06-25T23:21:52.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\dw.png">
+      <PackagePath>Assets\dw.png</PackagePath>
+      <Modified>2015-06-25T23:22:26.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\fars.png">
+      <PackagePath>Assets\fars.png</PackagePath>
+      <Modified>2015-06-26T21:06:24.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\icon.scale-100.png">
+      <PackagePath>Assets\icon.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-26T23:54:10.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\icon120.png">
+      <PackagePath>Assets\icon120.png</PackagePath>
+      <Modified>2015-06-26T23:55:03.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\kalame.png">
+      <PackagePath>Assets\kalame.png</PackagePath>
+      <Modified>2015-06-26T17:30:12.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-27T00:15:26.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\logoSmall.png">
+      <PackagePath>Assets\logoSmall.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-27T00:09:12.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\mehr.png">
+      <PackagePath>Assets\mehr.png</PackagePath>
+      <Modified>2015-06-26T17:13:21.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T19:22:30.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T19:22:42.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\Tabnak.png">
+      <PackagePath>Assets\Tabnak.png</PackagePath>
+      <Modified>2015-06-25T19:31:12.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\tala.png">
+      <PackagePath>Assets\tala.png</PackagePath>
+      <Modified>2015-06-26T21:04:53.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-27T00:08:01.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T19:22:08.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\booltan.jpg">
+      <PackagePath>Assets\booltan.jpg</PackagePath>
+      <Modified>2015-06-25T23:56:10.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\eghtesadonline.jpg">
+      <PackagePath>Assets\eghtesadonline.jpg</PackagePath>
+      <Modified>2015-06-26T21:02:29.643</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\euro.jpg">
+      <PackagePath>Assets\euro.jpg</PackagePath>
+      <Modified>2015-06-25T23:25:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\hamshahrionline.jpg">
+      <PackagePath>Assets\hamshahrionline.jpg</PackagePath>
+      <Modified>2015-06-25T23:55:02.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\ilna.jpg">
+      <PackagePath>Assets\ilna.jpg</PackagePath>
+      <Modified>2015-06-26T01:25:13.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\irib.jpg">
+      <PackagePath>Assets\irib.jpg</PackagePath>
+      <Modified>2015-06-26T01:40:37.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\irinn.jpg">
+      <PackagePath>Assets\irinn.jpg</PackagePath>
+      <Modified>2015-06-26T01:37:07.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\irna.jpg">
+      <PackagePath>Assets\irna.jpg</PackagePath>
+      <Modified>2015-06-25T23:07:01.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\isna.jpg">
+      <PackagePath>Assets\isna.jpg</PackagePath>
+      <Modified>2015-06-26T01:25:35.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\khabar.jpg">
+      <PackagePath>Assets\khabar.jpg</PackagePath>
+      <Modified>2015-06-25T23:07:30.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\khordad.jpg">
+      <PackagePath>Assets\khordad.jpg</PackagePath>
+      <Modified>2015-06-29T18:07:19.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\tasnim.jpg">
+      <PackagePath>Assets\tasnim.jpg</PackagePath>
+      <Modified>2015-06-26T17:16:33.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\voa.jpg">
+      <PackagePath>Assets\voa.jpg</PackagePath>
+      <Modified>2015-06-26T17:21:18.301</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\Assets\zamaneh.jpg">
+      <PackagePath>Assets\zamaneh.jpg</PackagePath>
+      <Modified>2015-06-26T17:18:57.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2015-06-29T18:09:30.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-06-26T22:51:58.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Release\about.xbf">
+      <PackagePath>about.xbf</PackagePath>
+      <Modified>2015-06-30T19:11:34.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Release\Browser.xbf">
+      <PackagePath>Browser.xbf</PackagePath>
+      <Modified>2015-06-29T21:57:54.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Release\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2015-06-29T21:57:54.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Release\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+      <Modified>2015-06-29T21:57:54.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Release\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+      <Modified>2015-06-26T22:51:58.301</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Release\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+      <Modified>2015-06-30T19:11:34.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Persian News\Persian News\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-30T19:23:47.214</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
