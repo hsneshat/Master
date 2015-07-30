@@ -1,30 +1,42 @@
-﻿<xapCache source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\PivotApp1_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="1/14/2014 4:00:06 PM">
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\obj\Debug\PivotApp1.dll" archivePath="PivotApp1.dll" lastWriteTime="1/14/2014 4:00:05 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="12/18/2013 3:31:56 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Assets\AppBar\feature.search.png" archivePath="Assets\AppBar\feature.search.png" lastWriteTime="3/3/2013 7:40:38 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Assets\AppBar\questionmark.png" archivePath="Assets\AppBar\questionmark.png" lastWriteTime="3/3/2013 7:40:38 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="12/18/2013 3:31:56 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="12/18/2013 3:31:56 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="12/18/2013 3:31:56 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="12/18/2013 3:31:56 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="12/18/2013 3:31:56 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="12/18/2013 3:31:56 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="1/8/2014 2:50:06 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\SplashScreenImage.screen-720p.jpg" archivePath="SplashScreenImage.screen-720p.jpg" lastWriteTime="1/14/2014 3:55:44 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\SplashScreenImage.screen-WVGA.jpg" archivePath="SplashScreenImage.screen-WVGA.jpg" lastWriteTime="1/14/2014 3:59:29 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\SplashScreenImage.screen-WXGA.jpg" archivePath="SplashScreenImage.screen-WXGA.jpg" lastWriteTime="1/14/2014 3:57:16 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\torshi.txt" archivePath="torshi.txt" lastWriteTime="1/14/2014 12:05:49 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\desert.txt" archivePath="desert.txt" lastWriteTime="1/14/2014 12:29:33 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\soup.txt" archivePath="soup.txt" lastWriteTime="1/14/2014 12:15:35 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\rice.txt" archivePath="rice.txt" lastWriteTime="1/13/2014 4:11:37 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\food-in-iran.jpg" archivePath="food-in-iran.jpg" lastWriteTime="1/8/2014 2:27:24 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\kebab.txt" archivePath="kebab.txt" lastWriteTime="1/10/2014 7:55:01 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\menu_background.jpg" archivePath="menu_background.jpg" lastWriteTime="1/8/2014 2:55:08 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\refined.txt" archivePath="refined.txt" lastWriteTime="1/10/2014 3:40:09 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\SampleData\stew.xml" archivePath="SampleData\stew.xml" lastWriteTime="12/18/2013 6:11:38 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\stew.txt" archivePath="stew.txt" lastWriteTime="1/10/2014 5:55:54 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\stews.xml" archivePath="stews.xml" lastWriteTime="1/10/2014 5:22:16 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12/18/2013 5:31:15 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\icon.png" archivePath="icon.png" lastWriteTime="1/9/2014 5:53:35 PM" />
-  <file source="C:\Users\hamedsa\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="1/14/2014 3:42:03 PM" />
+﻿<xapCache source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Debug\PivotApp1_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="7/16/2015 5:29:15 PM">
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\obj\Debug\PivotApp1.dll" archivePath="PivotApp1.dll" lastWriteTime="7/16/2015 5:29:14 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="6/24/2015 2:45:14 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Assets\AppBar\feature.search.png" archivePath="Assets\AppBar\feature.search.png" lastWriteTime="6/24/2015 2:45:14 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Assets\AppBar\questionmark.png" archivePath="Assets\AppBar\questionmark.png" lastWriteTime="6/24/2015 2:45:14 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="6/24/2015 2:45:14 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="6/24/2015 2:45:14 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="6/24/2015 2:45:14 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="6/24/2015 2:45:14 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="6/24/2015 2:45:14 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="6/24/2015 2:45:14 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="6/24/2015 2:45:13 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\SplashScreenImage.screen-720p.jpg" archivePath="SplashScreenImage.screen-720p.jpg" lastWriteTime="6/24/2015 2:45:14 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\SplashScreenImage.screen-WVGA.jpg" archivePath="SplashScreenImage.screen-WVGA.jpg" lastWriteTime="6/24/2015 2:45:14 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\SplashScreenImage.screen-WXGA.jpg" archivePath="SplashScreenImage.screen-WXGA.jpg" lastWriteTime="6/24/2015 2:45:14 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\others.txt" archivePath="others.txt" lastWriteTime="7/16/2015 5:14:22 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\torshi.txt" archivePath="torshi.txt" lastWriteTime="6/24/2015 2:45:14 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\desert.txt" archivePath="desert.txt" lastWriteTime="6/24/2015 2:45:12 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\soup.txt" archivePath="soup.txt" lastWriteTime="6/24/2015 2:45:13 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\rice.txt" archivePath="rice.txt" lastWriteTime="6/24/2015 2:45:13 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\food-in-iran.jpg" archivePath="food-in-iran.jpg" lastWriteTime="6/24/2015 2:45:12 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\kebab.txt" archivePath="kebab.txt" lastWriteTime="6/24/2015 2:45:13 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\menu_background.jpg" archivePath="menu_background.jpg" lastWriteTime="6/24/2015 2:45:13 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\refined.txt" archivePath="refined.txt" lastWriteTime="6/24/2015 2:45:13 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\SampleData\stew.xml" archivePath="SampleData\stew.xml" lastWriteTime="6/24/2015 2:45:33 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\stew.txt" archivePath="stew.txt" lastWriteTime="6/24/2015 2:45:14 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\stews.xml" archivePath="stews.xml" lastWriteTime="6/24/2015 2:45:14 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/16/2015 5:21:39 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="6/24/2015 2:45:19 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="6/24/2015 2:45:20 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="6/24/2015 2:45:20 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="6/24/2015 2:45:20 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="6/24/2015 2:45:20 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Debug\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="6/24/2015 2:45:20 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.dll" archivePath="Microsoft.Advertising.Mobile.dll" lastWriteTime="9/16/2013 11:09:00 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI.dll" archivePath="Microsoft.Advertising.Mobile.UI.dll" lastWriteTime="9/16/2013 11:09:00 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI.xml" archivePath="Microsoft.Advertising.Mobile.UI.xml" lastWriteTime="9/16/2013 11:13:06 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.xml" archivePath="Microsoft.Advertising.Mobile.xml" lastWriteTime="9/16/2013 11:13:06 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.Maps.dll" archivePath="Microsoft.Phone.Controls.Maps.dll" lastWriteTime="1/1/2013 5:57:00 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\icon.png" archivePath="icon.png" lastWriteTime="6/24/2015 2:45:12 PM" />
+  <file source="C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/16/2015 5:21:39 PM" />
 </xapCache>

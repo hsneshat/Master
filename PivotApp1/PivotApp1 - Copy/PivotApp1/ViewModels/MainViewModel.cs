@@ -15,8 +15,11 @@ namespace PivotApp1.ViewModels
             this.ItemsSoup = new ObservableCollection<ItemViewModel>();
             this.ItemsTorshi = new ObservableCollection<ItemViewModel>();
             this.ItemsStew = new ObservableCollection<ItemViewModel>();
+            this.ItemsOther = new ObservableCollection<ItemViewModel>();
             this.Itemskebab = new ObservableCollection<ItemViewModel>();
             this.Itemssearch = new ObservableCollection<ItemViewModel>();
+
+            
         }
 
         /// <summary>
@@ -26,6 +29,7 @@ namespace PivotApp1.ViewModels
         public ObservableCollection<ItemViewModel> ItemsDeserts { get; private set; }
         public ObservableCollection<ItemViewModel> ItemsRice { get; private set; }
         public ObservableCollection<ItemViewModel> ItemsSoup { get; private set; }
+        public ObservableCollection<ItemViewModel> ItemsOther { get; private set; }
         public ObservableCollection<ItemViewModel> ItemsTorshi { get; private set; }
         public ObservableCollection<ItemViewModel> ItemsStew { get; private set; }
         public ObservableCollection<ItemViewModel> Itemskebab { get; private set; }
@@ -84,6 +88,7 @@ namespace PivotApp1.ViewModels
             this.Itemskebab = DataLoader.menuItems("kebab");
             this.ItemsRice = DataLoader.menuItems("rice");
             this.ItemsSoup = DataLoader.menuItems("soup");
+            this.ItemsOther = DataLoader.menuItems("others");
             this.ItemsTorshi = DataLoader.menuItems("torshi");
             this.ItemsDeserts = DataLoader.menuItems("desert");
             

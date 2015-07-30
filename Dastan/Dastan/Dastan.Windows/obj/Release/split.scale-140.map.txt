@@ -1,0 +1,8 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-140"
+"ResourceDimensions"		"scale-140"
+
+[Files]
+"C:\Users\hamedsa\Documents\Visual Studio 2015\Projects\Dastan\Dastan\Dastan.Windows\obj\Release\split.scale-140.pri"			"resources.pri"
+"C:\Users\hamedsa\Documents\Visual Studio 2015\Projects\Dastan\Dastan\Dastan.Windows\obj\Release\PackageLayout\Assets\StoreLogo.scale-140.png"			"Assets\StoreLogo.scale-140.png"
+"C:\Users\hamedsa\Documents\Visual Studio 2015\Projects\Dastan\Dastan\Dastan.Windows\obj\Release\PackageLayout\Assets\SplashScreen.scale-140.png"			"Assets\SplashScreen.scale-140.png"

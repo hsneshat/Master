@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-am"
+"ResourceDimensions"		"language-am"
+
+[Files]
+"C:\Users\hamedsa\Documents\Visual Studio 2015\Projects\Dastan\Dastan\Dastan.Windows\obj\Release\split.language-am.pri"			"resources.pri"

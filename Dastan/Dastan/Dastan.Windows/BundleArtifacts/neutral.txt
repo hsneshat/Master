@@ -1,0 +1,5 @@
+MainPackage=C:\Users\hamedsa\Documents\Visual Studio 2015\Projects\Dastan\Dastan\Dastan.Windows\bin\Release\Dastan.Windows_1.1.0.1_AnyCPU.appx
+SymbolPackage=C:\Users\hamedsa\Documents\Visual Studio 2015\Projects\Dastan\Dastan\Dastan.Windows\AppPackages\Dastan.Windows_1.1.0.1_Test\Dastan.Windows_1.1.0.1_AnyCPU.appxsym
+ResourcePack=C:\Users\hamedsa\Documents\Visual Studio 2015\Projects\Dastan\Dastan\Dastan.Windows\bin\Release\Dastan.Windows_1.1.0.1_language-en.appx
+ResourcePack=C:\Users\hamedsa\Documents\Visual Studio 2015\Projects\Dastan\Dastan\Dastan.Windows\bin\Release\Dastan.Windows_1.1.0.1_scale-140.appx
+ResourcePack=C:\Users\hamedsa\Documents\Visual Studio 2015\Projects\Dastan\Dastan\Dastan.Windows\bin\Release\Dastan.Windows_1.1.0.1_scale-180.appx

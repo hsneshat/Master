@@ -100,6 +100,18 @@
                     </phone:LongListSelector.ItemTemplate>
                 </phone:LongListSelector>
             </phone:PivotItem>
+            <phone:PivotItem x:Name="others" Header="غذاهای دیگر">
+                <!--Double line list no text wrapping-->
+                <phone:LongListSelector x:Name="otherMenue" Margin="0,0,-12,0" ItemsSource="{Binding ItemsOther}" >
+                    <phone:LongListSelector.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Margin="0,0,0,17">
+                                <TextBlock Text="{Binding LineOne}" TextWrapping="NoWrap" Margin="12,0,0,0" Style="{StaticResource PhoneTextExtraLargeStyle}" Foreground="#FF803F21" FontSize="36"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </phone:LongListSelector.ItemTemplate>
+                </phone:LongListSelector>
+            </phone:PivotItem>
             <phone:PivotItem x:Name="Torshi" Header="ترشی ها">
                 <!--Double line list no text wrapping-->
                 <phone:LongListSelector x:Name="torshiMenue" Margin="0,0,-12,0" ItemsSource="{Binding ItemsTorshi}" SelectionChanged="torshiMenue_SelectionChanged">

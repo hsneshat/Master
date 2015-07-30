@@ -19,6 +19,7 @@ namespace PivotApp1
         public static Dictionary<string, Recipe> kebabs = new Dictionary<string, Recipe>();
         public static Dictionary<string, Recipe> rices = new Dictionary<string, Recipe>();
         public static Dictionary<string, Recipe> soups = new Dictionary<string, Recipe>();
+        public static Dictionary<string, Recipe> others = new Dictionary<string, Recipe>();
         public static Dictionary<string, Recipe> torshi = new Dictionary<string, Recipe>();
         public static Dictionary<string, Recipe> deserts = new Dictionary<string, Recipe>();
         
@@ -29,6 +30,7 @@ namespace PivotApp1
             files.Add("kebab.txt");
             files.Add("rice.txt");
             files.Add("soup.txt");
+            files.Add("others.txt");
             files.Add("torshi.txt");
             files.Add("desert.txt");
 
@@ -95,6 +97,10 @@ namespace PivotApp1
                                 {
                                     soups.Add(rec.title, rec);
                                 }
+                                else if (file.Contains("other"))
+                                {
+                                    others.Add(rec.title, rec);
+                                }
                                 else if (file.Contains("torshi"))
                                 {
                                     torshi.Add(rec.title, rec);
@@ -149,6 +155,13 @@ namespace PivotApp1
             else if (name.Contains("soup"))
             {
                 foreach (string s in soups.Keys)
+                {
+                    items.Add(new ItemViewModel() { LineOne = s, LineTwo = "", LineThree = "" });
+                }
+            }
+            else if (name.Contains("other"))
+            {
+                foreach (string s in others.Keys)
                 {
                     items.Add(new ItemViewModel() { LineOne = s, LineTwo = "", LineThree = "" });
                 }

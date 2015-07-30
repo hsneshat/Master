@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-quz-latn"
+"ResourceDimensions"		"language-quz"
+
+[Files]
+"C:\Users\hamedsa\Documents\Visual Studio 2015\Projects\Dastan\Dastan\Dastan.Windows\obj\Release\split.language-quz-latn.pri"			"resources.pri"

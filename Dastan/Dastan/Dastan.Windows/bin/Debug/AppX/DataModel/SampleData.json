@@ -1,0 +1,680 @@
+﻿{"Groups":[
+  {
+    "UniqueId": "Group-1",
+    "Title": "نویسندگان ایرانی",
+    "Subtitle": "نویسندگان ایرانی",
+    "ImagePath": "Assets/MediumGray.png",
+    "Description": "",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-1-Item-1",
+        "Title": "سه قطره خون",
+        "Subtitle": "صادق هدایت",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-2",
+        "Title": "داش آکل",
+        "Subtitle": "صادق هدایت",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-3",
+        "Title": "کچل کفتر باز",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      }
+      ,
+      {
+        "UniqueId": "Group-1-Item-4",
+        "Title": "کوراوغلو و کچل حمزه",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      }
+      ,
+      {
+        "UniqueId": "Group-1-Item-5",
+        "Title": "اولدوز و عروسک سخنگو",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      }
+      ,
+      {
+        "UniqueId": "Group-1-Item-6",
+        "Title": "اولدوز و کلاغها",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      }
+      ,
+      {
+        "UniqueId": "Group-1-Item-7",
+        "Title": "قصه آه",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      }
+      ,
+      {
+        "UniqueId": "Group-1-Item-8",
+        "Title": "عادت",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      }
+      ,
+      {
+        "UniqueId": "Group-1-Item-9",
+        "Title": "آدي و بودي",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-10",
+        "Title": "بز ريش سفيد",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-11",
+        "Title":"سرگذشت دانه ي برف",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-12",
+        "Title": "بي نام",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-13",
+        "Title": "پسرك لبو فروش",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-14",
+        "Title": "24 ساعت در خواب و بيداري",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-15",
+        "Title": "دو گربه روي ديوار",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-16",
+        "Title":"سرگذشت دومرول ديوانه سر",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-17",
+        "Title": "افسانه ي محبت",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-18",
+        "Title": "موش گرسنه",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-19",
+        "Title":  "پيرزن و جوجه ي طلايي اش",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-20",
+        "Title": "پوست نارنج",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-21",
+        "Title":"تلخون",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-22",
+        "Title": "ماهی سیاه کوچولو",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-23",
+        "Title": "یک هلو هزار هلو",
+        "Subtitle": "صمد بهرنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-24",
+        "Title": "جشن فرخنده",
+        "Subtitle": "جلال آل احمد",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-25",
+        "Title": "دو مرده",
+        "Subtitle": "جلال آل احمد",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-25-1",
+        "Title": "جفت",
+        "Subtitle": " غزاله علیزاده",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-26",
+        "Title": "عدل",
+        "Subtitle": "صادق چوبک",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-27",
+        "Title": "قفس",
+        "Subtitle": "صادق چوبک",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-28",
+        "Title": "بعدازظهر آخر پائیز",
+        "Subtitle": "صادق چوبک",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-28-8",
+        "Title": "چرا دریا توفانی شده بود",
+        "Subtitle": "صادق چوبک",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+
+      {
+        "UniqueId": "Group-1-Item-29",
+        "Title": "چنار",
+        "Subtitle": "هوشنگ گلشیری",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-30",
+        "Title": "آتش زردشت",
+        "Subtitle": "هوشنگ گلشیری",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-31",
+        "Title": "دهلیز",
+        "Subtitle": "هوشنگ گلشیری",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      }
+      ,
+      {
+        "UniqueId": "Group-1-Item-32",
+        "Title": "گیله مرد",
+        "Subtitle": "بزرگ علوی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-33",
+        "Title": "واگن سیاه",
+        "Subtitle": "غلامحسین ساعدی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-34",
+        "Title": "ابر بارانش گرفته",
+        "Subtitle": " شمیم بهار",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-1-Item-35",
+        "Title": "گدا",
+        "Subtitle": "غلامحسین ساعدی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-36",
+        "Title": "مقتل",
+        "Subtitle": "غلامحسین ساعدی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-37",
+        "Title": "از هیچ شروع شد",
+        "Subtitle": "محمود طیاری",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-38",
+        "Title": "قلب کوچک",
+        "Subtitle": "نادر ابراهیمی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      }
+
+    ]
+  },
+  {
+    "UniqueId": "Group-2",
+    "Title": "نویسندگان غیر ایرانی",
+    "Subtitle": "نویسندگان غیر ایرانی",
+    "ImagePath": "Assets/MediumGray.png",
+    "Description": "",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-2-Item-1",
+        "Title": "دوشس و جواهر فروش",
+        "Subtitle": " آدلاین ویرجینیا وولف",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-2-Item-2",
+        "Title": "آخرین سفر کشتی خیالی",
+        "Subtitle": "گارسیا مارکز",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-2-Item-3",
+        "Title": "زنجیر عشق",
+        "Subtitle": "، مارک ویکتور هنسن",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-2-Item-4",
+        "Title": "گراكوس شكارگر",
+        "Subtitle": "فرانتس کافکا",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-5",
+        "Title": "دسته گل",
+        "Subtitle": "پائولو کوئلیو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-6",
+        "Title": "کفش های طلایی",
+        "Subtitle": "پائولو کوئلیو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-7",
+        "Title": "جعبه خالی",
+        "Subtitle": "پائولو کوئلیو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-8",
+        "Title": "شام آخر",
+        "Subtitle": "پائولو کوئلیو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-9",
+        "Title": "زخم های عشق",
+        "Subtitle": "پائولو کوئلیو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-10",
+        "Title": "تصمیم مهم",
+        "Subtitle": "پائولو کوئلیو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-11",
+        "Title": "سکه",
+        "Subtitle": "پائولو کوئلیو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-12",
+        "Title": "تزریق خون",
+        "Subtitle": "پائولو کوئلیو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-13",
+        "Title": "سنگتراش",
+        "Subtitle": "پائولو کوئلیو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-14",
+        "Title": "سگ باهوش",
+        "Subtitle": "پائولو کوئلیو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-15",
+        "Title": "راه بهشت",
+        "Subtitle": "پائولو کوئلیو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-16",
+        "Title": "پنجره بیمارستان",
+        "Subtitle": "پائولو کوئلیو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-17",
+        "Title": "مرواریدهای زیبا",
+        "Subtitle": "پائولو کوئلیو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-18",
+        "Title": "ماشین اسپرت",
+        "Subtitle": "پائولو کوئلیو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-19",
+        "Title": "من با خدا غذا خوردم",
+        "Subtitle": "پائولو کوئلیو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-20",
+        "Title": "نجار و کارفرما",
+        "Subtitle": "پائولو کوئلیو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-21",
+        "Title": "جوجه عقاب ",
+        "Subtitle": "گابریل گارسیا مارکز",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-22",
+        "Title": "آدم مغرور",
+        "Subtitle": "آنتوان چخوف",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-23",
+        "Title": "سیاه و سفید",
+        "Subtitle": "هارولد پینتر",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-24",
+        "Title": "پل معلق",
+        "Subtitle": " آلیس مونرو",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-25",
+        "Title": "قرقاول",
+        "Subtitle": "ریموند کارور",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-26",
+        "Title": "پاکت‏ها",
+        "Subtitle": "ریموند کارور",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      }
+      ,
+      {
+        "UniqueId": "Group-2-Item-27",
+        "Title": "قدر دارایی‌هایتان را بدانید",
+        "Subtitle": "دیل کارنگی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-28",
+        "Title": "متشکرم",
+        "Subtitle": "آنتوان چخوف",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-2-Item-29",
+        "Title": "اپرای ماه",
+        "Subtitle": "ژاک پره ور",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      }
+
+      
+    ]
+  },
+  {
+    "UniqueId": "Group-3",
+    "Title": "ادبیات کهن",
+    "Subtitle": "ادبیات کهن",
+    "ImagePath": "Assets/MediumGray.png",
+    "Description": " ",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-3-Item-1",
+        "Title": "قیمت چشم و گوش و دست و پا...",
+        "Subtitle": " امام محمد غزالی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-3-Item-2",
+        "Title": "زاهد",
+        "Subtitle": " سعدی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-3-Item-3",
+        "Title": "ثناگویی امیر دزدان...",
+        "Subtitle": " سعدی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-3-Item-4",
+        "Title": "سرمایه ابدی",
+        "Subtitle": "مولانا",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-3-Item-6",
+        "Title": "خسرو و شیرین ",
+        "Subtitle": "نظامی‌ ",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-3-Item-5",
+        "Title": "فیل در تاریکی ",
+        "Subtitle": "مولانا",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      }
+      ,
+      {
+        "UniqueId": "Group-3-Item-7",
+        "Title": "مرد هيزم شکن",
+        "Subtitle": "کليله و دمنه",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      }
+      ,
+      {
+        "UniqueId": "Group-3-Item-8",
+        "Title": "عاقبت گرگ زاده گرگ شود",
+        "Subtitle": "سعدی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-3-Item-9",
+        "Title":  "حج",
+        "Subtitle": "ابو سعید ابوالخیر",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+      {
+        "UniqueId": "Group-3-Item-10",
+        "Title":  "صلت‎ ",
+        "Subtitle": "تاریخ بیهقی",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      }
+    ]
+  }
+ 
+]
+}

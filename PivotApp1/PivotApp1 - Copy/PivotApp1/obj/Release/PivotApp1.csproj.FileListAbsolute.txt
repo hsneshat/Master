@@ -148,3 +148,43 @@ C:\Users\Hamedsa\Documents\PivotApp1 - Copy\PivotApp1 - Copy\PivotApp1\obj\Relea
 C:\Users\Hamedsa\Documents\PivotApp1 - Copy\PivotApp1 - Copy\PivotApp1\obj\Release\XapCacheFile.xml
 C:\Users\Hamedsa\Documents\PivotApp1 - Copy\PivotApp1 - Copy\PivotApp1\Bin\Release\Properties\WMAppManifest.xml
 C:\Users\Hamedsa\Documents\PivotApp1 - Copy\PivotApp1 - Copy\PivotApp1\Bin\Release\Microsoft.Advertising.Mobile.dll
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\PivotApp1.dll
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\PivotApp1.pdb
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\AppManifest.xaml
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\PivotApp1_Debug_AnyCPU.xap
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\Microsoft.Advertising.Mobile.dll
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\Microsoft.Advertising.Mobile.xml
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\Microsoft.Advertising.Mobile.Common.xml
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\de-DE\Microsoft.Advertising.Mobile.Common.resources.dll
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\es-ES\Microsoft.Advertising.Mobile.Common.resources.dll
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.Common.resources.dll
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\it-IT\Microsoft.Advertising.Mobile.Common.resources.dll
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.Common.resources.dll
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.Common.resources.dll
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.Common.resources.dll
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.Common.resources.dll
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.Common.resources.dll
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\obj\Release\PivotApp1.csprojResolveAssemblyReference.cache
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\obj\Release\App.g.cs
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\obj\Release\about.g.cs
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\obj\Release\ExtendedSplashScreen.g.cs
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\obj\Release\khoresht\First.g.cs
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\obj\Release\MainPage.g.cs
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\obj\Release\RecipePage.g.cs
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\obj\Release\Search.g.cs
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\obj\Release\PivotApp1.g.resources
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\obj\Release\PivotApp1.Resources.AppResources.resources
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\obj\Release\PivotApp1.csproj.GenerateResource.Cache
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\obj\Release\PivotApp1.dll
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\obj\Release\PivotApp1.pdb
+C:\Users\hamedsa\Documents\GitHub\Master\PivotApp1\PivotApp1 - Copy\PivotApp1\obj\Release\XapCacheFile.xml
