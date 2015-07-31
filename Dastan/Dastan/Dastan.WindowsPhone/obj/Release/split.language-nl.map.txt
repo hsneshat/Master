@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-nl"
+"ResourceDimensions"		"language-nl-nl"
+
+[Files]
+"C:\Users\hamedsa\Documents\Visual Studio 2015\Projects\Dastan\Dastan\Dastan.WindowsPhone\obj\Release\split.language-nl.pri"			"resources.pri"

@@ -1,0 +1,58 @@
+﻿<Page
+    x:Class="Dastan.ItemPage"
+    DataContext="{Binding DefaultViewModel.Item, RelativeSource={RelativeSource Self}}"
+    d:DataContext="{Binding Groups[0].Items[0], Source={d:DesignData Source=../Dastan.Shared/DataModel/SampleData.json, Type=data:SampleDataSource}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Dastan"
+    xmlns:data="using:Dastan.Data"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="using:Microsoft.Advertising.Mobile.UI"
+    mc:Ignorable="d" Background="Black">
+    <Page.Transitions>
+        <TransitionCollection>
+            <NavigationThemeTransition>
+                <NavigationThemeTransition.DefaultNavigationTransitionInfo>
+                    <ContinuumNavigationTransitionInfo></ContinuumNavigationTransitionInfo>
+                </NavigationThemeTransition.DefaultNavigationTransitionInfo>
+            </NavigationThemeTransition>
+        </TransitionCollection>
+    </Page.Transitions>
+
+    <Grid x:Name="LayoutRoot" FlowDirection="RightToLeft">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock x:Uid="Header" Text="گنجینه داستان" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0" />
+            <TextBlock Text="{Binding Title}" Style="{ThemeResource HeaderTextBlockStyle}" Margin="0,0,0,26.5" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}" FontSize="36"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid 
+                  to show details for the current item -->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,0,19,55">
+
+            <ScrollViewer >
+                    <TextBlock x:Name="textBlock" Margin="0" TextWrapping="Wrap" Text="TextBlock" FlowDirection="RightToLeft" FontSize="18.667"/>
+            </ScrollViewer>
+        </Grid>
+        <!-- Advertising  -->
+         
+        <Grid Grid.Row="2" x:Name="ad" Margin="0" VerticalAlignment="Bottom" Height="50
+              ">
+            <UI:AdControl AutoRefreshIntervalInSeconds="60" ApplicationId="5445d107-ea9a-4038-b5ec-b128ccaa8441" AdUnitId="11528382" Height="50" IsAutoRefreshEnabled="True" Margin="0" Width="320" VerticalAlignment="Bottom"/>
+        </Grid>
+        
+    </Grid>
+</Page>
+

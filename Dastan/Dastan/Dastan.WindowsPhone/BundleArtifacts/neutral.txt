@@ -1,0 +1,4 @@
+MainPackage=C:\Users\hamedsa\Documents\Visual Studio 2015\Projects\Dastan\Dastan\Dastan.WindowsPhone\bin\Release\Dastan.WindowsPhone_1.1.0.2_Bundle\Dastan.WindowsPhone_1.1.0.2_AnyCPU.appx
+SymbolPackage=C:\Users\hamedsa\Documents\Visual Studio 2015\Projects\Dastan\Dastan\Dastan.WindowsPhone\AppPackages\Dastan.WindowsPhone_1.1.0.2_Test\Dastan.WindowsPhone_1.1.0.2_AnyCPU.appxsym
+ResourcePack=C:\Users\hamedsa\Documents\Visual Studio 2015\Projects\Dastan\Dastan\Dastan.WindowsPhone\bin\Release\Dastan.WindowsPhone_1.1.0.2_Bundle\Dastan.WindowsPhone_1.1.0.2_scale-100.appx
+ResourcePack=C:\Users\hamedsa\Documents\Visual Studio 2015\Projects\Dastan\Dastan\Dastan.WindowsPhone\bin\Release\Dastan.WindowsPhone_1.1.0.2_Bundle\Dastan.WindowsPhone_1.1.0.2_scale-140.appx
