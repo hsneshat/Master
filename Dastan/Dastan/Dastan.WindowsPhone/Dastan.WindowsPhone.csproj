@@ -135,9 +135,6 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <SDKReference Include="Microsoft.AdMediator81, Version=1.0">
-      <Name>Microsoft.AdMediator81</Name>
-    </SDKReference>
     <SDKReference Include="Microsoft.Advertising.Mobile.Display, Version=8.1">
       <Name>Microsoft.Advertising.Mobile.Display</Name>
     </SDKReference>
