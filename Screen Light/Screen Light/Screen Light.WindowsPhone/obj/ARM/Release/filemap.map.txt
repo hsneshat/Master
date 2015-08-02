@@ -20,3 +20,4 @@
 "C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\obj\ARM\Release\PackageLayout\Assets\SplashScreen.scale-240.png"			"Assets\SplashScreen.scale-240.png"
 "C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\obj\ARM\Release\PackageLayout\Assets\SmallLogo.scale-240.png"			"Assets\SmallLogo.scale-240.png"
 "C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\obj\ARM\Release\PackageLayout\Assets\Logo.scale-240.png"			"Assets\Logo.scale-240.png"
+"C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\obj\ARM\Release\PackageLayout\Assets\BadgeLogo.scale-240.png"			"Assets\BadgeLogo.scale-240.png"

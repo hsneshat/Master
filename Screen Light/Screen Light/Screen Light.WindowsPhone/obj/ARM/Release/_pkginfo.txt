@@ -1,1 +1,1 @@
-C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\AppPackages\Screen Light.WindowsPhone_1.1.0.8_Test\Screen Light.WindowsPhone_1.1.0.8_arm.appxbundle
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\AppPackages\Screen Light.WindowsPhone_2015.802.1.5_Test\Screen Light.WindowsPhone_2015.802.1.5_arm.appxbundle

@@ -883,3 +883,8 @@ namespace Screen_Light.Screen_Light_WindowsPhone_XamlTypeInfo
 }
 
 
+
+
+
+
+

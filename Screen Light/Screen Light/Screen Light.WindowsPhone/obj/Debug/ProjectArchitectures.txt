@@ -1,1 +1,1 @@
-C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\Screen Light.WindowsPhone.csproj;neutral
+C:\Users\hamedsa\Documents\Visual Studio 2013\Screen Light\Screen Light\Screen Light.WindowsPhone\Screen Light.WindowsPhone.csproj;neutral

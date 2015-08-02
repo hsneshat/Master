@@ -4,4 +4,6 @@
 
 [Files]
 "C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\obj\ARM\Release\split.scale-140.pri"			"resources.pri"
+"C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\obj\ARM\Release\PackageLayout\Assets\StoreLogo.scale-140.png"			"Assets\StoreLogo.scale-140.png"
 "C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\obj\ARM\Release\PackageLayout\Assets\Square150x150Logo.scale-140.png"			"Assets\Square150x150Logo.scale-140.png"
+"C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\obj\ARM\Release\PackageLayout\Assets\BadgeLogo.scale-140.png"			"Assets\BadgeLogo.scale-140.png"

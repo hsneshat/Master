@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type='text/xsl' href='C:\ProgramData\Windows App Certification Kit\wp-results.xsl'?>
-<REPORT xml:lang="en-US" OVERALL_RESULT="PASS" VERSION="10.0" LATEST_VERSION="TRUE" UPDATE_DOWNLOAD_URL="" TOOLSET_ARCHITECTURE="x64" SecureBoot="FALSE" APP_TYPE="WindowsPhone" PUBLISHER_DISPLAY_NAME="CN=A60B89C9-749B-4DEF-8454-E08D3A5B907C" APP_NAME="54108HamedSN.ScreenLight" APP_VERSION="1.1.0.8" OSVERSION="10.0.10240.0" OS="Microsoft Windows 10 Enterprise" PER_USER_APPLICATION="" PARTIAL_RUN="FALSE" LCID="1033" VALIDATION_TYPE="UI" ReportGenerationTime="7/31/2015 6:33:56 PM" ID="73f23dda6113043d34b55b7c0639f9da">
+<REPORT xml:lang="en-US" OVERALL_RESULT="PASS" VERSION="10.0" LATEST_VERSION="TRUE" UPDATE_DOWNLOAD_URL="" TOOLSET_ARCHITECTURE="x64" SecureBoot="FALSE" APP_TYPE="WindowsPhone" PUBLISHER_DISPLAY_NAME="CN=A60B89C9-749B-4DEF-8454-E08D3A5B907C" APP_NAME="54108HamedSN.ScreenLight" APP_VERSION="2015.802.1.5" OSVERSION="10.0.10240.0" OS="Microsoft Windows 10 Enterprise" PER_USER_APPLICATION="" PARTIAL_RUN="FALSE" LCID="1033" VALIDATION_TYPE="UI" ReportGenerationTime="8/2/2015 12:09:37 PM" ID="2464374bdb5c025d6d34012b07915e31">
   <REQUIREMENTS>
     <REQUIREMENT NUMBER="1" TITLE="Clean reversible install test" RATIONALE="A clean, reversible, installation allows users to successfully manage (deploy, and remove) applications on their system." />
     <REQUIREMENT NUMBER="2" TITLE="Install to the correct folders test" RATIONALE="Windows provides specific locations in the file system to store programs and software components, shared application data, and application data specific to a user." />
@@ -14,76 +14,76 @@
     <REQUIREMENT NUMBER="10" TITLE="Crashes and hangs test" RATIONALE="Application failures such as crashes and hangs are a major disruption to users and cause frustration. Eliminating such failures improves application stability and reliability, and overall, provides users with a better application experience." />
     <REQUIREMENT NUMBER="11" TITLE="Compatibility and resiliency test" RATIONALE="When Windows detects that an application has operated in an incompatible manner, it applies a compatibility fix that causes the application to behave correctly, ensuring a positive user experience. Applications should not rely on this behavior since it is only provided to allow legacy applications to work correctly on Windows." />
     <REQUIREMENT NUMBER="12" TITLE="Package compliance test" RATIONALE="The package manifest was missing one or more required attributes.">
-      <TEST INDEX="77" NAME="Application count" DESCRIPTION="One package should not define more than one app in the manifest." EXECUTIONTIME="00h:00m:01s.38ms">
+      <TEST INDEX="77" NAME="Application count" DESCRIPTION="One package should not define more than one app in the manifest." EXECUTIONTIME="00h:00m:01s.40ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="31" NAME="App manifest" DESCRIPTION="App manifest must include valid entries for all required fields." EXECUTIONTIME="00h:00m:01s.57ms">
+      <TEST INDEX="31" NAME="App manifest" DESCRIPTION="App manifest must include valid entries for all required fields." EXECUTIONTIME="00h:00m:01s.56ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="74" NAME="Bundle manifest" DESCRIPTION="Bundle manifest must include valid entries for all required fields." EXECUTIONTIME="00h:00m:01s.42ms">
+      <TEST INDEX="74" NAME="Bundle manifest" DESCRIPTION="Bundle manifest must include valid entries for all required fields." EXECUTIONTIME="00h:00m:01s.45ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="75" NAME="Package size" DESCRIPTION="Package file size should not be greater than 4 gigabytes." EXECUTIONTIME="00h:00m:01s.43ms">
+      <TEST INDEX="75" NAME="Package size" DESCRIPTION="Package file size should not be greater than 4 gigabytes." EXECUTIONTIME="00h:00m:01s.39ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="13" TITLE="Windows security best practices test" RATIONALE="An application should not change the default Windows security settings." />
     <REQUIREMENT NUMBER="14" TITLE="Windows security features test" RATIONALE="Applications must opt-into Windows security features.">
-      <TEST INDEX="33" NAME="Binary analyzer" DESCRIPTION="Analysis of security features enabled on binaries" EXECUTIONTIME="00h:00m:01s.79ms">
+      <TEST INDEX="33" NAME="Binary analyzer" DESCRIPTION="Analysis of security features enabled on binaries" EXECUTIONTIME="00h:00m:01s.84ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="70" NAME="Banned file analyzer" DESCRIPTION="Analysis of application to detect known insecure files" EXECUTIONTIME="00h:00m:01s.32ms">
+      <TEST INDEX="70" NAME="Banned file analyzer" DESCRIPTION="Analysis of application to detect known insecure files" EXECUTIONTIME="00h:00m:01s.30ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="62" NAME="Private code signing" DESCRIPTION="App should not package private code signing key files." EXECUTIONTIME="00h:00m:01s.52ms">
+      <TEST INDEX="62" NAME="Private code signing" DESCRIPTION="App should not package private code signing key files." EXECUTIONTIME="00h:00m:01s.49ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="15" TITLE="Supported API test" RATIONALE="The application should only refer to the APIs allowed by the Windows SDK for Windows Store Apps.">
-      <TEST INDEX="72" NAME="Supported APIs" DESCRIPTION="Windows Phone App must only use supported platform APIs." EXECUTIONTIME="00h:00m:01s.80ms">
+      <TEST INDEX="72" NAME="Supported APIs" DESCRIPTION="Windows Phone App must only use supported platform APIs." EXECUTIONTIME="00h:00m:01s.76ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="17" TITLE="Performance test" RATIONALE="The application should have a fast and responsive launch and suspend experience while consuming a reasonable amount of system resources (CPU, File IO, Memory etc.) to enable fast switching and multitasking between previously unopened applications." />
     <REQUIREMENT NUMBER="19" TITLE="App manifest resources test" RATIONALE="The App Package Manifest should have valid resources defined in the resources.pri file, as per the App Packaging Specification and App Manifest Schema.">
-      <TEST INDEX="45" NAME="App resources validation" DESCRIPTION="The package should have valid resources defined in the resources.pri file." EXECUTIONTIME="00h:00m:01s.23ms">
+      <TEST INDEX="45" NAME="App resources validation" DESCRIPTION="The package should have valid resources defined in the resources.pri file." EXECUTIONTIME="00h:00m:01s.33ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="61" NAME="Branding validation" DESCRIPTION="App should not use the default images packed by windows SDK samples or Visual Studio." EXECUTIONTIME="00h:00m:01s.67ms">
+      <TEST INDEX="61" NAME="Branding validation" DESCRIPTION="App should not use the default images packed by windows SDK samples or Visual Studio." EXECUTIONTIME="00h:00m:01s.69ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="20" TITLE="Debug configuration test" RATIONALE="The App should not install any debug binaries.">
-      <TEST INDEX="46" NAME="Debug configuration" DESCRIPTION="The App should not install any debug binaries." EXECUTIONTIME="00h:00m:01s.57ms">
+      <TEST INDEX="46" NAME="Debug configuration" DESCRIPTION="The App should not install any debug binaries." EXECUTIONTIME="00h:00m:01s.53ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="21" TITLE="File encoding test" RATIONALE="Packages containing an HTML5 Windows Store app must have correct file encoding.">
-      <TEST INDEX="49" NAME="UTF-8 file encoding" DESCRIPTION="Packages containing an HTML5 Windows Store app must have correct file encoding." EXECUTIONTIME="00h:00m:01s.38ms">
+      <TEST INDEX="49" NAME="UTF-8 file encoding" DESCRIPTION="Packages containing an HTML5 Windows Store app must have correct file encoding." EXECUTIONTIME="00h:00m:01s.39ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="22" TITLE="Direct3D Feature Test" RATIONALE="App should use the Direct3D capability correctly." />
     <REQUIREMENT NUMBER="23" TITLE="App Capabilities test" RATIONALE="Packages declaring special-use capabilities will have to provide justifications during the onboarding process.">
-      <TEST INDEX="52" NAME="Special use capabilities" DESCRIPTION="Packages declaring special-use capabilities will have to provide justifications during the onboarding process." EXECUTIONTIME="00h:00m:01s.36ms">
+      <TEST INDEX="52" NAME="Special use capabilities" DESCRIPTION="Packages declaring special-use capabilities will have to provide justifications during the onboarding process." EXECUTIONTIME="00h:00m:01s.34ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="24" TITLE="Windows Runtime metadata validation" RATIONALE="Metadata needs to be conformant and consistent across all generation sources.">
-      <TEST INDEX="56" NAME="ExclusiveTo attribute test" DESCRIPTION="A class must not implement an interface that is marked ExclusiveTo another class." EXECUTIONTIME="00h:00m:01s.91ms">
+      <TEST INDEX="56" NAME="ExclusiveTo attribute test" DESCRIPTION="A class must not implement an interface that is marked ExclusiveTo another class." EXECUTIONTIME="00h:00m:01s.92ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
@@ -91,32 +91,32 @@
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="55" NAME="Type name case-sensitivity test" DESCRIPTION="Namespace and type names must not vary only by casing." EXECUTIONTIME="00h:00m:01s.14ms">
+      <TEST INDEX="55" NAME="Type name case-sensitivity test" DESCRIPTION="Namespace and type names must not vary only by casing." EXECUTIONTIME="00h:00m:01s.10ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="54" NAME="Type name correctness test" DESCRIPTION="Only system types can be in the Windows namespace and no types can be in the global namespace." EXECUTIONTIME="00h:00m:01s.14ms">
+      <TEST INDEX="54" NAME="Type name correctness test" DESCRIPTION="Only system types can be in the Windows namespace and no types can be in the global namespace." EXECUTIONTIME="00h:00m:01s.10ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="58" NAME="General metadata correctness test" DESCRIPTION="Metadata files must meet various requirements in order to be valid and correct." EXECUTIONTIME="00h:00m:01s.61ms">
+      <TEST INDEX="58" NAME="General metadata correctness test" DESCRIPTION="Metadata files must meet various requirements in order to be valid and correct." EXECUTIONTIME="00h:00m:02s.09ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="53" NAME="Properties test" DESCRIPTION="Write-only and indexer properties may not be used. Corresponding getter and setter methods must match in type." EXECUTIONTIME="00h:00m:01s.10ms">
+      <TEST INDEX="53" NAME="Properties test" DESCRIPTION="Write-only and indexer properties may not be used. Corresponding getter and setter methods must match in type." EXECUTIONTIME="00h:00m:01s.08ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="25" TITLE="Package sanity test" RATIONALE="Validation of the app package contents to ensure correctness.">
-      <TEST INDEX="63" NAME="Platform appropriate files" DESCRIPTION="App should not install files that do not match the target processor architecture." EXECUTIONTIME="00h:00m:01s.38ms">
+      <TEST INDEX="63" NAME="Platform appropriate files" DESCRIPTION="App should not install files that do not match the target processor architecture." EXECUTIONTIME="00h:00m:01s.42ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="26" TITLE="High-DPI support" RATIONALE="The application needs to set DPI-aware to make the UI look consistently good across a wide variety of high-DPI display settings." />
     <REQUIREMENT NUMBER="27" TITLE="Resource Usage Test" RATIONALE="WinJS background tasks need to call close() to free resource.">
-      <TEST INDEX="68" NAME="WinJS background task test" DESCRIPTION="WinJS background tasks need to call close() to free resource." EXECUTIONTIME="00h:00m:01s.56ms">
+      <TEST INDEX="68" NAME="WinJS background task test" DESCRIPTION="WinJS background tasks need to call close() to free resource." EXECUTIONTIME="00h:00m:01s.40ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
@@ -124,12 +124,12 @@
   </REQUIREMENTS>
   <APPLICATIONS>
     <Installed_Programs>
-      <Program Name="54108HamedSN.ScreenLight" Type="Application" Source="AppxPackage" Publisher="CN=A60B89C9-749B-4DEF-8454-E08D3A5B907C" Version="1.1.0.8" Language="1033" InstallDate="08/01/2015 01:33:35" RootDirPath="C:\WINDOWS\temp\appcert_8170\54108HamedSN.ScreenLight_1.1.0.8_arm__ngv4na01sh338" Id="0000d6f401caca41d4d2abade4dcc49f3e3d00000904">
+      <Program Name="54108HamedSN.ScreenLight" Type="Application" Source="AppxPackage" Publisher="CN=A60B89C9-749B-4DEF-8454-E08D3A5B907C" Version="2015.802.1.5" Language="1033" InstallDate="08/02/2015 19:09:15" RootDirPath="C:\WINDOWS\temp\appcert_6268\54108HamedSN.ScreenLight_2015.802.1.5_arm__ngv4na01sh338" Id="0000d4cebc7b1069f2446ae31a1311b8e30700000904">
         <Indicators>
           <WindowsStoreAppManifestIndicators>
-            <PackageManifest PackageFullName="54108hamedsn.screenlight_1.1.0.8_arm__ngv4na01sh338">
+            <PackageManifest PackageFullName="54108hamedsn.screenlight_2015.802.1.5_arm__ngv4na01sh338">
               <Package>
-                <Identity Name="54108HamedSN.ScreenLight" Publisher="CN=A60B89C9-749B-4DEF-8454-E08D3A5B907C" Version="1.1.0.8" ProcessorArchitecture="arm" />
+                <Identity Name="54108HamedSN.ScreenLight" Publisher="CN=A60B89C9-749B-4DEF-8454-E08D3A5B907C" Version="2015.802.1.5" ProcessorArchitecture="arm" />
                 <PhoneIdentity PhoneProductId="999cbf37-a98a-4999-9767-cc0dd68a1cc1" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
                 <Properties>
                   <DisplayName>ScreenLight</DisplayName>
@@ -172,20 +172,20 @@
             </PackageManifest>
             <BundleManifest PackageFamilyName="54108HamedSN.ScreenLight_ngv4na01sh338">
               <Bundle SchemaVersion="2.0">
-                <Identity Name="54108HamedSN.ScreenLight" Publisher="CN=A60B89C9-749B-4DEF-8454-E08D3A5B907C" Version="2015.801.131.0" />
+                <Identity Name="54108HamedSN.ScreenLight" Publisher="CN=A60B89C9-749B-4DEF-8454-E08D3A5B907C" Version="2015.802.1908.0" />
                 <Packages>
-                  <Package Type="application" Version="1.1.0.8" Architecture="arm" FileName="Screen Light.WindowsPhone_1.1.0.8_ARM.appx" Offset="74" Size="416033">
+                  <Package Type="application" Version="2015.802.1.5" Architecture="arm" FileName="Screen Light.WindowsPhone_2015.802.1.5_ARM.appx" Offset="79" Size="429914">
                     <Resources>
                       <Resource Language="EN-US" />
                       <Resource Scale="240" />
                     </Resources>
                   </Package>
-                  <Package Type="resource" Version="1.1.0.8" ResourceId="split.scale-100" FileName="Screen Light.WindowsPhone_1.1.0.8_scale-100.appx" Offset="416211" Size="185677">
+                  <Package Type="resource" Version="2015.802.1.5" ResourceId="split.scale-100" FileName="Screen Light.WindowsPhone_2015.802.1.5_scale-100.appx" Offset="430102" Size="196108">
                     <Resources>
                       <Resource Scale="100" />
                     </Resources>
                   </Package>
-                  <Package Type="resource" Version="1.1.0.8" ResourceId="split.scale-140" FileName="Screen Light.WindowsPhone_1.1.0.8_scale-140.appx" Offset="601992" Size="181725">
+                  <Package Type="resource" Version="2015.802.1.5" ResourceId="split.scale-140" FileName="Screen Light.WindowsPhone_2015.802.1.5_scale-140.appx" Offset="626319" Size="206527">
                     <Resources>
                       <Resource Scale="140" />
                     </Resources>
@@ -196,14 +196,14 @@
           </WindowsStoreAppManifestIndicators>
         </Indicators>
         <StaticProperties>
-          <Files Id="0000874f6ca643db2bec81daa1b601003b59a3982692">
-            <File Name="Microsoft.Advertising.Mobile.Display.winmd" Id="0000bb2aa7d3a5d1db91f45730ea55b0ed8d62bea33b" ProductName="Microsoft.Advertising.Mobile" CompanyName="Microsoft" ProductVersion="8.1.40505.0" VerLanguage="0" SwitchBackContext="0x0100000000000602" FileVersion="8.1.40505.0" Size="0xbcd8" SizeOfImage="0x10000" PeHeaderHash="0101583ccc9a8dcc9e258c562c5fc8c72bfff0c9eef6" PeChecksum="0x187ca" BinProductVersion="8.1.40505.0" BinFileVersion="8.1.40505.0" FileDescription="Microsoft.Advertising.Mobile" InternalName="Microsoft.Advertising.Mobile.Display.winmdobj" LegalCopyright="Copyright © Microsoft 2010" LinkDate="05/02/2014 20:00:48" BinaryType="PE32_CLR_IL" ClrVersion="WindowsRuntime 1.3;CLR v4.0.30319" OriginalFileName="Microsoft.Advertising.Mobile.Display.winmdobj" LowerCaseLongPath="c:\windows\temp\appcert_8170\54108hamedsn.screenlight_1.1.0.8_arm__ngv4na01sh338\microsoft.advertising.mobile.display.winmd" LongPathHash="0000a066cb5b81c196cddc6fe5c6a1f11644d8c08818" />
-            <File Name="Microsoft.Advertising.Mobile.UI.winmd" Id="000081abe8f840396037d7f5f725a6317be1bbb88358" ProductName="Microsoft.Advertising.Mobile.UI" ProductVersion="8.1.40505.0" VerLanguage="0" SwitchBackContext="0x0100000000000602" FileVersion="8.1.40505.0" Size="0x24ad0" SizeOfImage="0x2a000" PeHeaderHash="01017ca8144b8713fd9309753615114d77167263e70f" PeChecksum="0x317e5" BinProductVersion="8.1.40505.0" BinFileVersion="8.1.40505.0" FileDescription="Microsoft.Advertising.Mobile.UI" InternalName="Microsoft.Advertising.Mobile.UI.winmdobj" LegalCopyright="Copyright ©  2013" LinkDate="05/02/2014 20:00:50" BinaryType="PE32_CLR_IL" ClrVersion="WindowsRuntime 1.3;CLR v4.0.30319" OriginalFileName="Microsoft.Advertising.Mobile.UI.winmdobj" LowerCaseLongPath="c:\windows\temp\appcert_8170\54108hamedsn.screenlight_1.1.0.8_arm__ngv4na01sh338\microsoft.advertising.mobile.ui.winmd" LongPathHash="000047e2d6d61c57edb1a5358b4c762fbe9ce636b7d9" />
-            <File Name="resources.pri" Id="0000dc96cc2f3542f33b02b0f96d5f12e80cf1eb8311" Size="0x65f0" BinaryType="DATA_ONLY" LowerCaseLongPath="c:\windows\temp\appcert_8170\54108hamedsn.screenlight_1.1.0.8_arm__ngv4na01sh338\resources.pri" LongPathHash="00001508204837a43e7778bc763f82ed820dcacaca0b" />
-            <File Name="bootstrap.html" Id="0000bc3224a28c4cd7d24f16e7db440c71bd423386ae" Size="0x699" BinaryType="DATA_ONLY" LowerCaseLongPath="c:\windows\temp\appcert_8170\54108hamedsn.screenlight_1.1.0.8_arm__ngv4na01sh338\microsoft.advertising.mobile.ui\web\bootstrap.html" LongPathHash="0000a09d2ba6d05fb08c75c33ad6caeaacc4e7dd01cb" />
-            <File Name="Ormma.js" Id="0000bc1252b06cf252341fbabadeed07451042cf509c" Size="0x60fc" BinaryType="DATA_ONLY" LowerCaseLongPath="c:\windows\temp\appcert_8170\54108hamedsn.screenlight_1.1.0.8_arm__ngv4na01sh338\microsoft.advertising.mobile.ui\web\ormma.js" LongPathHash="00006107ae48cbce740d40deb1488ab778898cf4f24e" />
-            <File Name="Screen Light.WindowsPhone.exe" Id="00004786a1932878432be30e4e225dba4529635ed352" ProductName="Screen Light.WindowsPhone" ProductVersion="1.0.0.0" VerLanguage="0" SwitchBackContext="0x0100000000000602" FileVersion="1.0.0.0" Size="0x7600" SizeOfImage="0xc000" PeHeaderHash="010159f12b6de1dd639e0ebd69a860960f125c8e9c52" PeChecksum="0x0" BinProductVersion="1.0.0.0" BinFileVersion="1.0.0.0" FileDescription="Screen Light.WindowsPhone" InternalName="Screen Light.WindowsPhone.exe" LegalCopyright="Copyright ©  2015" LinkDate="08/01/2015 01:31:29" BinaryType="PE32_CLR_IL" ClrVersion="v4.0.30319" OriginalFileName="Screen Light.WindowsPhone.exe" LowerCaseLongPath="c:\windows\temp\appcert_8170\54108hamedsn.screenlight_1.1.0.8_arm__ngv4na01sh338\screen light.windowsphone.exe" LongPathHash="000009e5ed09ffaf61c37d351d8ab4768a37b89fd678" />
-            <File Name="Microsoft.Advertising.Mobile.Common.winmd" Id="00009bb451f512edee6bc97080555de4b8c6546cacae" ProductName="Microsoft.Advertising.Mobile.Common" CompanyName="Microsoft" ProductVersion="8.1.40505.0" VerLanguage="0" SwitchBackContext="0x0100000000000602" FileVersion="8.1.40505.0" Size="0x18cd8" SizeOfImage="0x1e000" PeHeaderHash="01018cd55f5c72edf62acd258bed931f74cd8831ee36" PeChecksum="0x26377" BinProductVersion="8.1.40505.0" BinFileVersion="8.1.40505.0" FileDescription="Microsoft.Advertising.Mobile.Common" InternalName="Microsoft.Advertising.Mobile.Common.winmdobj" LegalCopyright="Copyright © Microsoft 2010" LinkDate="05/02/2014 20:00:47" BinaryType="PE32_CLR_IL" ClrVersion="WindowsRuntime 1.3;CLR v4.0.30319" OriginalFileName="Microsoft.Advertising.Mobile.Common.winmdobj" LowerCaseLongPath="c:\windows\temp\appcert_8170\54108hamedsn.screenlight_1.1.0.8_arm__ngv4na01sh338\microsoft.advertising.mobile.common.winmd" LongPathHash="00008043ed464d06a90168f385c8a0763d8b025f2600" />
+          <Files Id="0000a44f6dfa085d964186a93aa6e0da353bbf24c6cb">
+            <File Name="Microsoft.Advertising.Mobile.UI.winmd" Id="000081abe8f840396037d7f5f725a6317be1bbb88358" ProductName="Microsoft.Advertising.Mobile.UI" ProductVersion="8.1.40505.0" VerLanguage="0" SwitchBackContext="0x0100000000000602" FileVersion="8.1.40505.0" Size="0x24ad0" SizeOfImage="0x2a000" PeHeaderHash="01017ca8144b8713fd9309753615114d77167263e70f" PeChecksum="0x317e5" BinProductVersion="8.1.40505.0" BinFileVersion="8.1.40505.0" FileDescription="Microsoft.Advertising.Mobile.UI" InternalName="Microsoft.Advertising.Mobile.UI.winmdobj" LegalCopyright="Copyright ©  2013" LinkDate="05/02/2014 20:00:50" BinaryType="PE32_CLR_IL" ClrVersion="WindowsRuntime 1.3;CLR v4.0.30319" OriginalFileName="Microsoft.Advertising.Mobile.UI.winmdobj" LowerCaseLongPath="c:\windows\temp\appcert_6268\54108hamedsn.screenlight_2015.802.1.5_arm__ngv4na01sh338\microsoft.advertising.mobile.ui.winmd" LongPathHash="00008fa6172ddcc607bf5542bb807f634a11ada72d2e" />
+            <File Name="bootstrap.html" Id="0000bc3224a28c4cd7d24f16e7db440c71bd423386ae" Size="0x699" BinaryType="DATA_ONLY" LowerCaseLongPath="c:\windows\temp\appcert_6268\54108hamedsn.screenlight_2015.802.1.5_arm__ngv4na01sh338\microsoft.advertising.mobile.ui\web\bootstrap.html" LongPathHash="0000c3764990146c22b2763dcae8b7eebabde57fdb8f" />
+            <File Name="Ormma.js" Id="0000bc1252b06cf252341fbabadeed07451042cf509c" Size="0x60fc" BinaryType="DATA_ONLY" LowerCaseLongPath="c:\windows\temp\appcert_6268\54108hamedsn.screenlight_2015.802.1.5_arm__ngv4na01sh338\microsoft.advertising.mobile.ui\web\ormma.js" LongPathHash="00004c928573f427a531e079ac573b7d0f692ebf7ba8" />
+            <File Name="resources.pri" Id="000002a712e103edbb60a26232108ab044b7cd4b1d88" Size="0x6670" BinaryType="DATA_ONLY" LowerCaseLongPath="c:\windows\temp\appcert_6268\54108hamedsn.screenlight_2015.802.1.5_arm__ngv4na01sh338\resources.pri" LongPathHash="00000d9bbe3a6a96d486f086fa3ac5a0ce107fbd3a61" />
+            <File Name="Screen Light.WindowsPhone.exe" Id="00001870d02dc49490450e9ea418ce24f4cf9bfc5739" ProductName="Screen Light.WindowsPhone" ProductVersion="1.0.0.0" VerLanguage="0" SwitchBackContext="0x0100000000000602" FileVersion="1.0.0.0" Size="0x7600" SizeOfImage="0xc000" PeHeaderHash="01017f543ce33272935ef5f687d08fa6510ea9add2a7" PeChecksum="0x0" BinProductVersion="1.0.0.0" BinFileVersion="1.0.0.0" FileDescription="Screen Light.WindowsPhone" InternalName="Screen Light.WindowsPhone.exe" LegalCopyright="Copyright ©  2015" LinkDate="08/02/2015 18:55:59" BinaryType="PE32_CLR_IL" ClrVersion="v4.0.30319" OriginalFileName="Screen Light.WindowsPhone.exe" LowerCaseLongPath="c:\windows\temp\appcert_6268\54108hamedsn.screenlight_2015.802.1.5_arm__ngv4na01sh338\screen light.windowsphone.exe" LongPathHash="0000a9f0abd377ee7769f4cff657e41a171e52261173" />
+            <File Name="Microsoft.Advertising.Mobile.Display.winmd" Id="0000bb2aa7d3a5d1db91f45730ea55b0ed8d62bea33b" ProductName="Microsoft.Advertising.Mobile" CompanyName="Microsoft" ProductVersion="8.1.40505.0" VerLanguage="0" SwitchBackContext="0x0100000000000602" FileVersion="8.1.40505.0" Size="0xbcd8" SizeOfImage="0x10000" PeHeaderHash="0101583ccc9a8dcc9e258c562c5fc8c72bfff0c9eef6" PeChecksum="0x187ca" BinProductVersion="8.1.40505.0" BinFileVersion="8.1.40505.0" FileDescription="Microsoft.Advertising.Mobile" InternalName="Microsoft.Advertising.Mobile.Display.winmdobj" LegalCopyright="Copyright © Microsoft 2010" LinkDate="05/02/2014 20:00:48" BinaryType="PE32_CLR_IL" ClrVersion="WindowsRuntime 1.3;CLR v4.0.30319" OriginalFileName="Microsoft.Advertising.Mobile.Display.winmdobj" LowerCaseLongPath="c:\windows\temp\appcert_6268\54108hamedsn.screenlight_2015.802.1.5_arm__ngv4na01sh338\microsoft.advertising.mobile.display.winmd" LongPathHash="0000f5c39dcc9468c468d280306069923475cc737a7f" />
+            <File Name="Microsoft.Advertising.Mobile.Common.winmd" Id="00009bb451f512edee6bc97080555de4b8c6546cacae" ProductName="Microsoft.Advertising.Mobile.Common" CompanyName="Microsoft" ProductVersion="8.1.40505.0" VerLanguage="0" SwitchBackContext="0x0100000000000602" FileVersion="8.1.40505.0" Size="0x18cd8" SizeOfImage="0x1e000" PeHeaderHash="01018cd55f5c72edf62acd258bed931f74cd8831ee36" PeChecksum="0x26377" BinProductVersion="8.1.40505.0" BinFileVersion="8.1.40505.0" FileDescription="Microsoft.Advertising.Mobile.Common" InternalName="Microsoft.Advertising.Mobile.Common.winmdobj" LegalCopyright="Copyright © Microsoft 2010" LinkDate="05/02/2014 20:00:47" BinaryType="PE32_CLR_IL" ClrVersion="WindowsRuntime 1.3;CLR v4.0.30319" OriginalFileName="Microsoft.Advertising.Mobile.Common.winmdobj" LowerCaseLongPath="c:\windows\temp\appcert_6268\54108hamedsn.screenlight_2015.802.1.5_arm__ngv4na01sh338\microsoft.advertising.mobile.common.winmd" LongPathHash="0000c009d6f59351ce59a57226bbedd6be5f2b445339" />
           </Files>
         </StaticProperties>
       </Program>
@@ -211,7 +211,7 @@
   </APPLICATIONS>
   <DEPENDENCY_INFORMATION>
     <AitStaticAnalysis Type="Template">
-      <AitFile ErrorCode="0" Name="Screen Light.WindowsPhone.exe" Id="00004786a1932878432be30e4e225dba4529635ed352">
+      <AitFile ErrorCode="0" Name="Screen Light.WindowsPhone.exe" Id="00001870d02dc49490450e9ea418ce24f4cf9bfc5739">
         <AitCategory Id="DotNet">
           <AitFeature Name="System.Action`1" />
           <AitFeature Name="System.ArgumentException" />

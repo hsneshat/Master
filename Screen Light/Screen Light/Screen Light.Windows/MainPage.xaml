@@ -24,7 +24,10 @@
                     </Flyout>
                 </AppBarButton.Flyout>
             </AppBarButton>
-
+            <AppBarButton Label="SOS" Icon="Setting" Click="AppBarButton_Click">
+                
+            </AppBarButton>
+                
         </CommandBar>
     </Page.BottomAppBar>
 

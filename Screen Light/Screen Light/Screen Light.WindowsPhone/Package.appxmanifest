@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
-  <Identity Name="54108HamedSN.ScreenLight" Publisher="CN=A60B89C9-749B-4DEF-8454-E08D3A5B907C" Version="1.1.0.8" />
+  <Identity Name="54108HamedSN.ScreenLight" Publisher="CN=A60B89C9-749B-4DEF-8454-E08D3A5B907C" Version="2015.802.1.5" />
   <mp:PhoneIdentity PhoneProductId="999cbf37-a98a-4999-9767-cc0dd68a1cc1" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>ScreenLight</DisplayName>

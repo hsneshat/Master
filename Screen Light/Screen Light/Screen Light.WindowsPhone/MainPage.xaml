@@ -19,9 +19,9 @@
 
                         <Flyout>
                             <StackPanel>
-                                <TextBlock Text="Slide to change brightness" FontSize="12" Margin="5,0,0,0"/>
+                                <TextBlock Text="Slide to change Screen's brightness" FontSize="12" Margin="5,0,0,0"/>
                                 <Slider ValueChanged="Slider_ValueChanged" Margin="5,0"/>
-                                <TextBlock Text="Slide to change color" FontSize="12" Margin="5,0,0,0"/>
+                                <TextBlock Text="Slide to change Screen's color" FontSize="12" Margin="5,0,0,0"/>
                                 <Slider ValueChanged="Slider_ValueChanged_1" Margin="5,0"></Slider>
                             </StackPanel>
                         </Flyout>

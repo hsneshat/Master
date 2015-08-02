@@ -81,5 +81,10 @@ namespace Screen_Light
 
             return Color.FromArgb(a, r, g, b);
         }
+
+        private void AppBarButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
