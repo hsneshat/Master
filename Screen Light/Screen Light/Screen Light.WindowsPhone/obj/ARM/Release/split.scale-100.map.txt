@@ -1,0 +1,8 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\obj\ARM\Release\split.scale-100.pri"			"resources.pri"
+"C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\obj\ARM\Release\PackageLayout\Assets\Square150x150Logo.scale-100.png"			"Assets\Square150x150Logo.scale-100.png"
+"C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\obj\ARM\Release\PackageLayout\Assets\Logo.scale-100.png"			"Assets\Logo.scale-100.png"

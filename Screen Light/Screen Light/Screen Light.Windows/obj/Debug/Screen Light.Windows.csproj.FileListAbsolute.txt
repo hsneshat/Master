@@ -1,0 +1,36 @@
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\App.g.i.cs
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\App.g.cs
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\MainPage.g.cs
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\App.xaml
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\App.xbf
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\MainPage.xaml
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\MainPage.xbf
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\bin\Debug\App.xbf
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\bin\Debug\MainPage.xbf
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\bin\Debug\Screen Light.Windows.xr.xml
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\bin\Debug\Screen Light.Windows.exe
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\bin\Debug\Screen Light.Windows.pdb
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\bin\Debug\resources.pri
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\bin\Debug\AppxManifest.xml
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\bin\Debug\Screen Light.Windows.build.appxrecipe
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\Screen Light.Windows.exe
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\Screen Light.Windows.pdb
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\priconfig.xml
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\layout.resfiles
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\resources.resfiles
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\pri.resfiles
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\qualifiers.txt
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\bin\Debug\MicrosoftAdvertising.winmd
+C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.Windows\bin\Debug\MicrosoftAdvertising.xml

@@ -1,0 +1,4 @@
+MainPackage=C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\bin\ARM\Release\Screen Light.WindowsPhone_1.1.0.8_Bundle\Screen Light.WindowsPhone_1.1.0.8_ARM.appx
+SymbolPackage=C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\AppPackages\Screen Light.WindowsPhone_1.1.0.8_Test\Screen Light.WindowsPhone_1.1.0.8_ARM.appxsym
+ResourcePack=C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\bin\ARM\Release\Screen Light.WindowsPhone_1.1.0.8_Bundle\Screen Light.WindowsPhone_1.1.0.8_scale-100.appx
+ResourcePack=C:\Users\hamedsa\Documents\Visual Studio 2013\Projects\Screen Light\Screen Light\Screen Light.WindowsPhone\bin\ARM\Release\Screen Light.WindowsPhone_1.1.0.8_Bundle\Screen Light.WindowsPhone_1.1.0.8_scale-140.appx

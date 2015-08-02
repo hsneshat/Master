@@ -1,0 +1,40 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Screen_Light"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="using:Microsoft.Advertising.WinRT.UI"
+    x:Class="Screen_Light.MainPage"
+    mc:Ignorable="d" BorderThickness="0">
+
+    <Page.BottomAppBar>
+        <CommandBar x:Name="myCommandBar"  >
+
+            <AppBarButton Label="Setting" Icon="Setting">
+                <AppBarButton.Flyout>
+
+                    <Flyout>
+                        <StackPanel>
+                            <TextBlock Text="Slide to change brightness" FontSize="12" Margin="5,0,0,0"/>
+                            <Slider x:ConnectionId='1'                                    Margin="5,0"/>
+                            <TextBlock Text="Slide to change color" FontSize="12" Margin="5,0,0,0"/>
+                            <Slider x:ConnectionId='2'                                      Margin="5,0"/>
+                        </StackPanel>
+                    </Flyout>
+                </AppBarButton.Flyout>
+            </AppBarButton>
+
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid x:Name="light" Background="White">
+        
+               <UI:AdControl ApplicationId="d25517cb-12d4-4699-8bdc-52040c712cab" AdUnitId="10043104" Height="90" Margin="0" VerticalAlignment="Bottom" Width="728"/>
+        
+
+        
+
+    </Grid>
+</Page>
+
