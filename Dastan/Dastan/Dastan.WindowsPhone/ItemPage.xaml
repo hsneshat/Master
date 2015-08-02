@@ -40,18 +40,55 @@
 
         <!--TODO: Content should be placed within the following grid 
                   to show details for the current item -->
-        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,0,19,55">
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,0,19,55" Background="Black">
 
-            <ScrollViewer >
-                    <TextBlock x:Name="textBlock" Margin="0" TextWrapping="Wrap" Text="TextBlock" FlowDirection="RightToLeft" FontSize="18.667"/>
+            <ScrollViewer x:Name="backGround"   >
+                <TextBlock x:Name="textBlock" Margin="0" TextWrapping="Wrap" Text="TextBlockd" FlowDirection="RightToLeft" FontSize="18.667"  SelectionChanged="textBlock_SelectionChanged"/>
             </ScrollViewer>
         </Grid>
         <!-- Advertising  -->
-         
+
         <Grid Grid.Row="2" x:Name="ad" Margin="0" VerticalAlignment="Bottom" Height="50
               ">
             <UI:AdControl AutoRefreshIntervalInSeconds="60" ApplicationId="5445d107-ea9a-4038-b5ec-b128ccaa8441" AdUnitId="11528382" Height="50" IsAutoRefreshEnabled="True" Margin="0" Width="320" VerticalAlignment="Bottom"/>
         </Grid>
-        
+
     </Grid>
+    
+    <Page.BottomAppBar>
+        <CommandBar x:Name="myCommandBar"   ClosedDisplayMode="Minimal"  >
+            <CommandBar.PrimaryCommands>
+
+                <AppBarButton Label="Setting" Icon="Setting">
+                    <AppBarButton.Flyout>
+
+                        <Flyout>
+                            <StackPanel FlowDirection="RightToLeft" Background="Black">
+                                <TextBlock Text="درخشانی صفحه" FontSize="14" Margin="5,0,0,0"/>
+                                <Slider  Margin="5,0" ValueChanged="Slider_ValueChanged"/>
+                                <TextBlock Text="درخشانی نوشته ها" FontSize="14" Margin="5,0,0,0"/>
+                                <Slider  Margin="5,0" ValueChanged="Slider_ValueChanged_1"/>
+                                <TextBlock Text="رنگ پس زمینه" FontSize="12" Margin="5,0,0,10"/>
+                                
+                                <Grid Width="160" >
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto" />
+                                        <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Text="روشن" FontSize="20" Margin="0,0,40,10" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center" SelectionChanged="TextBlock_SelectionChanged_1" Tapped="TextBlock_Tapped"/>
+                                    <TextBlock x:Name="dark" Text="تیره" FontSize="20" Margin="40,0,0,10" Grid.Column="1" Grid.Row="0" SelectionChanged="dark_SelectionChanged" Tapped="dark_Tapped"/>
+                                    
+                                </Grid>
+                                
+                                
+                            </StackPanel>
+                        </Flyout>
+                    </AppBarButton.Flyout>
+                </AppBarButton>
+
+            </CommandBar.PrimaryCommands>
+
+        </CommandBar>
+    </Page.BottomAppBar>
+    
 </Page>

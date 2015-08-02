@@ -1,6 +1,5 @@
 ﻿using Dastan.Common;
 using Dastan.Data;
-
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -10,6 +9,7 @@ using System.Windows.Input;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
 using Windows.Graphics.Display;
+using Windows.UI;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -112,5 +112,72 @@ namespace Dastan
         }
 
         #endregion
+
+        private void textBlock_SelectionChanged(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void TextBlock_SelectionChanged_1(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
+        private void dark_SelectionChanged(object sender, RoutedEventArgs e)
+        {
+            ContentRoot.Background = new SolidColorBrush(Windows.UI.Colors.Black);
+        }
+
+        
+
+        private void TextBlock_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            ContentRoot.Background = new SolidColorBrush(ConvertStringToColor("#FFFFF7D3"));
+            textBlock.Foreground = new SolidColorBrush(ConvertStringToColor("#FF2E1B03"));
+        }
+        
+        private void dark_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            ContentRoot.Background = new SolidColorBrush(Windows.UI.Colors.Black);
+            textBlock.Foreground = new SolidColorBrush(Windows.UI.Colors.White);
+        }
+
+        private void Slider_ValueChanged(object sender, RangeBaseValueChangedEventArgs e)
+        {
+            this.ContentRoot.Opacity = (100 - e.NewValue) / 100;
+        }
+        public Color ConvertStringToColor(String hex)
+        {
+
+            hex = hex.Replace("#", "");
+
+            byte a = 255;
+            byte r = 255;
+            byte g = 255;
+            byte b = 255;
+
+            int start = 0;
+
+            //handle ARGB strings (8 characters long) 
+            if (hex.Length == 8)
+            {
+                a = byte.Parse(hex.Substring(0, 2), System.Globalization.NumberStyles.HexNumber);
+                start = 2;
+            }
+
+            //convert RGB characters to bytes 
+            r = byte.Parse(hex.Substring(start, 2), System.Globalization.NumberStyles.HexNumber);
+            g = byte.Parse(hex.Substring(start + 2, 2), System.Globalization.NumberStyles.HexNumber);
+            b = byte.Parse(hex.Substring(start + 4, 2), System.Globalization.NumberStyles.HexNumber);
+
+            return Color.FromArgb(a, r, g, b);
+        }
+
+        private void Slider_ValueChanged_1(object sender, RangeBaseValueChangedEventArgs e)
+        {
+            textBlock.Opacity = (100 - e.NewValue) / 100;
+        }
+
+        
     }
 }
