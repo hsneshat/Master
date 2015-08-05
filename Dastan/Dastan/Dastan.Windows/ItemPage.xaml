@@ -38,7 +38,7 @@
 
         </Grid>
         <Grid Margin="0" Grid.Row="2" VerticalAlignment="Bottom" Height="90">
-            <UI:AdControl ApplicationId="074af28b-b850-4341-bb27-9026ccced4e1" AdUnitId="11527037" HorizontalAlignment="Center" Height="90" Margin="0" Grid.Row="1" VerticalAlignment="Bottom" Width="728"/>
+            <UI:AdControl ApplicationId="fdbd399b-ba5c-4c58-887d-e5de60d7deb8" AdUnitId="11530456" HorizontalAlignment="Center" Height="90" Margin="0" Grid.Row="1" VerticalAlignment="Bottom" Width="728"/>
         </Grid>
             
         <!-- Back button and page title -->

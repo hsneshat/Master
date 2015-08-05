@@ -134,7 +134,7 @@
             <HubSection x:Uid="Section4Header" Header="تبلیغ" Padding="40,40,40,32">
                 <DataTemplate>
                     <GridView SelectionMode="None" >
-                        <UI:AdControl ApplicationId="074af28b-b850-4341-bb27-9026ccced4e1" AdUnitId="11527036" Margin="0" Height="600" Width="160"/>
+                        <UI:AdControl ApplicationId="fdbd399b-ba5c-4c58-887d-e5de60d7deb8" AdUnitId="11530455" Margin="0" Height="600" Width="160"/>
                     </GridView>
                     
                     

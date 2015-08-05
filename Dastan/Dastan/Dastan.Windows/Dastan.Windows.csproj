@@ -18,7 +18,8 @@
     <PackageCertificateKeyFile>Dastan.Windows_StoreKey.pfx</PackageCertificateKeyFile>
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
     <AppxBundlePlatforms>neutral</AppxBundlePlatforms>
-    <PackageCertificateThumbprint>B000B809CC0EA94E96AAFCA2C88575C7D34C2CB0</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>4C4A32FF9EB541F87CCD3F2976B0A93D8BFCEA8C</PackageCertificateThumbprint>
+    <AppxBundle>Always</AppxBundle>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

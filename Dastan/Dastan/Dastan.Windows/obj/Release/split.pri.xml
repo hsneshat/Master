@@ -1,138 +1,138 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PriInfo>
-	<ResourceMap name="54108HamedSN.PersianStoryCollection" version="1.0" primary="true">
+	<ResourceMap name="7837Sarooj.FarsiStoryCollection" version="1.0" primary="true">
 		<Qualifiers>
 			<Language>EN-US, EN-GB</Language>
 			<Scale>100</Scale>
 		</Qualifiers>
 		<ResourceMapSubtree name="Files">
-			<NamedResource name="App.xbf" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/App.xbf">
+			<NamedResource name="App.xbf" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/App.xbf">
 				<Candidate type="Path">
 					<Value>App.xbf</Value>
 				</Candidate>
 			</NamedResource>
-			<NamedResource name="Dastan.Windows.xr.xml" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Dastan.Windows.xr.xml">
+			<NamedResource name="Dastan.Windows.xr.xml" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Dastan.Windows.xr.xml">
 				<Candidate type="Path">
 					<Value>Dastan.Windows.xr.xml</Value>
 				</Candidate>
 			</NamedResource>
-			<NamedResource name="HubPage.xbf" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/HubPage.xbf">
+			<NamedResource name="HubPage.xbf" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/HubPage.xbf">
 				<Candidate type="Path">
 					<Value>HubPage.xbf</Value>
 				</Candidate>
 			</NamedResource>
-			<NamedResource name="ItemPage.xbf" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/ItemPage.xbf">
+			<NamedResource name="ItemPage.xbf" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/ItemPage.xbf">
 				<Candidate type="Path">
 					<Value>ItemPage.xbf</Value>
 				</Candidate>
 			</NamedResource>
-			<NamedResource name="SectionPage.xbf" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/SectionPage.xbf">
+			<NamedResource name="SectionPage.xbf" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/SectionPage.xbf">
 				<Candidate type="Path">
 					<Value>SectionPage.xbf</Value>
 				</Candidate>
 			</NamedResource>
 			<ResourceMapSubtree name="Assets">
-				<NamedResource name="Book-icon50.png" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Assets/Book-icon50.png">
+				<NamedResource name="Book-icon50.png" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Assets/Book-icon50.png">
 					<Candidate type="Path">
 						<Value>Assets\Book-icon50.png</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="Book-icon70.png" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Assets/Book-icon70.png">
+				<NamedResource name="Book-icon70.png" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Assets/Book-icon70.png">
 					<Candidate type="Path">
 						<Value>Assets\Book-icon70.png</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="DarkGray.png" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Assets/DarkGray.png">
+				<NamedResource name="DarkGray.png" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Assets/DarkGray.png">
 					<Candidate type="Path">
 						<Value>Assets\DarkGray.png</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="hedayat.jpeg" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Assets/hedayat.jpeg">
+				<NamedResource name="hedayat.jpeg" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Assets/hedayat.jpeg">
 					<Candidate type="Path">
 						<Value>Assets\hedayat.jpeg</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="LightGray.png" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Assets/LightGray.png">
+				<NamedResource name="LightGray.png" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Assets/LightGray.png">
 					<Candidate type="Path">
 						<Value>Assets\LightGray.png</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="Logo.png" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Assets/Logo.png">
+				<NamedResource name="Logo.png" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Assets/Logo.png">
 					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
 						<Value>Assets\Logo.scale-100.png</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="MediumGray.png" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Assets/MediumGray.png">
+				<NamedResource name="MediumGray.png" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Assets/MediumGray.png">
 					<Candidate type="Path">
 						<Value>Assets\MediumGray.png</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="Samad.jpg" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Assets/Samad.jpg">
+				<NamedResource name="Samad.jpg" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Assets/Samad.jpg">
 					<Candidate type="Path">
 						<Value>Assets\Samad.jpg</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="SmallLogo.png" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Assets/SmallLogo.png">
+				<NamedResource name="SmallLogo.png" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Assets/SmallLogo.png">
 					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
 						<Value>Assets\SmallLogo.scale-100.png</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="SplashScreen.png" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Assets/SplashScreen.png">
+				<NamedResource name="SplashScreen.png" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Assets/SplashScreen.png">
 					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
 						<Value>Assets\SplashScreen.scale-100.png</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="Square70x70Logo.png" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Assets/Square70x70Logo.png">
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Assets/Square70x70Logo.png">
 					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
 						<Value>Assets\Square70x70Logo.scale-100.png</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="StoreLogo.png" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Assets/StoreLogo.png">
+				<NamedResource name="StoreLogo.png" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Assets/StoreLogo.png">
 					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
 						<Value>Assets\StoreLogo.scale-100.png</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="wallpaper.jpg" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Assets/wallpaper.jpg">
+				<NamedResource name="wallpaper.jpg" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Assets/wallpaper.jpg">
 					<Candidate type="Path">
 						<Value>Assets\wallpaper.jpg</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="WideLogo.png" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Assets/WideLogo.png">
+				<NamedResource name="WideLogo.png" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Assets/WideLogo.png">
 					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
 						<Value>Assets\WideLogo.scale-100.png</Value>
 					</Candidate>
 				</NamedResource>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="DataModel">
-				<NamedResource name="dastans.xml" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/DataModel/dastans.xml">
+				<NamedResource name="dastans.xml" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/DataModel/dastans.xml">
 					<Candidate type="Path">
 						<Value>DataModel\dastans.xml</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="SampleData.json" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/DataModel/SampleData.json">
+				<NamedResource name="SampleData.json" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/DataModel/SampleData.json">
 					<Candidate type="Path">
 						<Value>DataModel\SampleData.json</Value>
 					</Candidate>
 				</NamedResource>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="Microsoft.Advertising.WinRT.UI">
-				<NamedResource name="AdSettingsFlyout.xbf" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Microsoft.Advertising.WinRT.UI/AdSettingsFlyout.xbf">
+				<NamedResource name="AdSettingsFlyout.xbf" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Microsoft.Advertising.WinRT.UI/AdSettingsFlyout.xbf">
 					<Candidate type="Path">
 						<Value>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="bootstrap.html" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Microsoft.Advertising.WinRT.UI/bootstrap.html">
+				<NamedResource name="bootstrap.html" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Microsoft.Advertising.WinRT.UI/bootstrap.html">
 					<Candidate type="Path">
 						<Value>Microsoft.Advertising.WinRT.UI\bootstrap.html</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="ormma.js" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Microsoft.Advertising.WinRT.UI/ormma.js">
+				<NamedResource name="ormma.js" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Microsoft.Advertising.WinRT.UI/ormma.js">
 					<Candidate type="Path">
 						<Value>Microsoft.Advertising.WinRT.UI\ormma.js</Value>
 					</Candidate>
 				</NamedResource>
 				<ResourceMapSubtree name="Themes">
-					<NamedResource name="Generic.xbf" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/Microsoft.Advertising.WinRT.UI/Themes/Generic.xbf">
+					<NamedResource name="Generic.xbf" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/Microsoft.Advertising.WinRT.UI/Themes/Generic.xbf">
 						<Candidate type="Path">
 							<Value>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</Value>
 						</Candidate>
@@ -141,12 +141,12 @@
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="MicrosoftAdvertising">
 				<ResourceMapSubtree name="IntelliSense">
-					<NamedResource name="AdErrorEventArgs.xml" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/MicrosoftAdvertising/IntelliSense/AdErrorEventArgs.xml">
+					<NamedResource name="AdErrorEventArgs.xml" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/MicrosoftAdvertising/IntelliSense/AdErrorEventArgs.xml">
 						<Candidate qualifiers="Language-EN-US" isDefault="true" type="Path">
 							<Value>MicrosoftAdvertising\IntelliSense\en-US\AdErrorEventArgs.xml</Value>
 						</Candidate>
 					</NamedResource>
-					<NamedResource name="ErrorCode.xml" uri="ms-resource://54108HamedSN.PersianStoryCollection/Files/MicrosoftAdvertising/IntelliSense/ErrorCode.xml">
+					<NamedResource name="ErrorCode.xml" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Files/MicrosoftAdvertising/IntelliSense/ErrorCode.xml">
 						<Candidate qualifiers="Language-EN-US" isDefault="true" type="Path">
 							<Value>MicrosoftAdvertising\IntelliSense\en-US\ErrorCode.xml</Value>
 						</Candidate>
@@ -156,304 +156,304 @@
 		</ResourceMapSubtree>
 		<ResourceMapSubtree name="MicrosoftAdvertising">
 			<ResourceMapSubtree name="ExceptionMessages">
-				<NamedResource name="AdGameComponentAlreadyInitialized" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/AdGameComponentAlreadyInitialized">
+				<NamedResource name="AdGameComponentAlreadyInitialized" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/AdGameComponentAlreadyInitialized">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>AdGameComponent has already been initialized.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdGameComponentHasNotBeenInitialized" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/AdGameComponentHasNotBeenInitialized">
+				<NamedResource name="AdGameComponentHasNotBeenInitialized" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/AdGameComponentHasNotBeenInitialized">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>AdGameComponent has not been initialized.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdManagerNotInitialized" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/AdManagerNotInitialized">
+				<NamedResource name="AdManagerNotInitialized" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/AdManagerNotInitialized">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>AdManager has not been initialized.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdMangerAlreadyInitialized" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/AdMangerAlreadyInitialized">
+				<NamedResource name="AdMangerAlreadyInitialized" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/AdMangerAlreadyInitialized">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>AdManager has already been initialized with a different ApplicationId.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdUnitIdAlreadySet" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/AdUnitIdAlreadySet">
+				<NamedResource name="AdUnitIdAlreadySet" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/AdUnitIdAlreadySet">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>AdUnitId has already been set.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdUnitIdIsRequired" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/AdUnitIdIsRequired">
+				<NamedResource name="AdUnitIdIsRequired" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/AdUnitIdIsRequired">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>adUnitId is required.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AllActionsMalformed" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/AllActionsMalformed">
+				<NamedResource name="AllActionsMalformed" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/AllActionsMalformed">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>All found actions were malformed.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="ApplicationIdIsRequired" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/ApplicationIdIsRequired">
+				<NamedResource name="ApplicationIdIsRequired" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/ApplicationIdIsRequired">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>applicationId is required.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AssetNodeIsSingleEntry" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/AssetNodeIsSingleEntry">
+				<NamedResource name="AssetNodeIsSingleEntry" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/AssetNodeIsSingleEntry">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Asset node is a single entry.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AutoRefreshStateAlreadySet" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/AutoRefreshStateAlreadySet">
+				<NamedResource name="AutoRefreshStateAlreadySet" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/AutoRefreshStateAlreadySet">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Refresh state has already been set.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="BannerInformationNotFound" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/BannerInformationNotFound">
+				<NamedResource name="BannerInformationNotFound" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/BannerInformationNotFound">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Banner information is not found.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="CannotRefreshWhenAdControlUninitialized" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenAdControlUninitialized">
+				<NamedResource name="CannotRefreshWhenAdControlUninitialized" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenAdControlUninitialized">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Refresh may not be called when AdControl is uninitialised.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="CannotRefreshWhenAdIsEngaged" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenAdIsEngaged">
+				<NamedResource name="CannotRefreshWhenAdIsEngaged" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenAdIsEngaged">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Refresh may not be called when AdControl is engaged.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="CannotRefreshWhenNotVisible" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenNotVisible">
+				<NamedResource name="CannotRefreshWhenNotVisible" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenNotVisible">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Refresh may not be called when AdControl is not visible to the user.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="CannotRefreshWhenSuspended" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenSuspended">
+				<NamedResource name="CannotRefreshWhenSuspended" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenSuspended">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Refresh may not be called when AdControl is suspended.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="CapabilitiesMissing" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/CapabilitiesMissing">
+				<NamedResource name="CapabilitiesMissing" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/CapabilitiesMissing">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="ClickToRichUrlWithoutReferralNotWellFormed" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/ClickToRichUrlWithoutReferralNotWellFormed">
+				<NamedResource name="ClickToRichUrlWithoutReferralNotWellFormed" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/ClickToRichUrlWithoutReferralNotWellFormed">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="ClickToRichUrlWithReferralNotWellFormed" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/ClickToRichUrlWithReferralNotWellFormed">
+				<NamedResource name="ClickToRichUrlWithReferralNotWellFormed" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/ClickToRichUrlWithReferralNotWellFormed">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="CouldNotFindProperty" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/CouldNotFindProperty">
+				<NamedResource name="CouldNotFindProperty" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/CouldNotFindProperty">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Could not find property: {0}.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="DecodingEscapedCharactersFailed" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/DecodingEscapedCharactersFailed">
+				<NamedResource name="DecodingEscapedCharactersFailed" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/DecodingEscapedCharactersFailed">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="DidNotParseToEnd" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/DidNotParseToEnd">
+				<NamedResource name="DidNotParseToEnd" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/DidNotParseToEnd">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Did not parse until the end.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="ExtractedPropertyNotAString" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/ExtractedPropertyNotAString">
+				<NamedResource name="ExtractedPropertyNotAString" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/ExtractedPropertyNotAString">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Extracted property not of string type: {0}.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="FontDoesNotSupportCharacter" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/FontDoesNotSupportCharacter">
+				<NamedResource name="FontDoesNotSupportCharacter" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/FontDoesNotSupportCharacter">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Font does not support character: {0}.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="GeoDataNotAvailable" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/GeoDataNotAvailable">
+				<NamedResource name="GeoDataNotAvailable" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/GeoDataNotAvailable">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>No latitude and longitude data available.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="IncompleteInit" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/IncompleteInit">
+				<NamedResource name="IncompleteInit" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/IncompleteInit">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>ApplicationId and AdUnitId need to be set before using this control.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="InternalError" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/InternalError">
+				<NamedResource name="InternalError" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/InternalError">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Internal error encountered.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="InvalidAction" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/InvalidAction">
+				<NamedResource name="InvalidAction" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/InvalidAction">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Invalid action param: {0}.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="InvalidDataFormat" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/InvalidDataFormat">
+				<NamedResource name="InvalidDataFormat" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/InvalidDataFormat">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Invalid data format: {0}.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="InvalidJsonResponse" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/InvalidJsonResponse">
+				<NamedResource name="InvalidJsonResponse" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/InvalidJsonResponse">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Invalid JSON response: {0}.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="InvalidLocation" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/InvalidLocation">
+				<NamedResource name="InvalidLocation" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/InvalidLocation">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>The Location value is out of range.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="InvalidParameterMissingItemSeparator" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/InvalidParameterMissingItemSeparator">
+				<NamedResource name="InvalidParameterMissingItemSeparator" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/InvalidParameterMissingItemSeparator">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Invalid Parameter, missing item separator.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="InvalidRefresh" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/InvalidRefresh">
+				<NamedResource name="InvalidRefresh" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/InvalidRefresh">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Refresh cannot be used when auto refresh is enabled.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="InvalidSize" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/InvalidSize">
+				<NamedResource name="InvalidSize" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/InvalidSize">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>The rectangle dimensions do not meet the minimum size requirements ({0}x{1}).</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="JsonDoesntStartWithObjectOrArray" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/JsonDoesntStartWithObjectOrArray">
+				<NamedResource name="JsonDoesntStartWithObjectOrArray" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/JsonDoesntStartWithObjectOrArray">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Server JSON response does not start with object/array.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="JsonIntegerParseOverflow" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/JsonIntegerParseOverflow">
+				<NamedResource name="JsonIntegerParseOverflow" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/JsonIntegerParseOverflow">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Number being parsed is too big: {0}.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="JsonNodeIsNotADictionary" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/JsonNodeIsNotADictionary">
+				<NamedResource name="JsonNodeIsNotADictionary" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/JsonNodeIsNotADictionary">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Json node is not a dictionary.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="JsonResponseTypeInvalid" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/JsonResponseTypeInvalid">
+				<NamedResource name="JsonResponseTypeInvalid" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/JsonResponseTypeInvalid">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Invalid JSON response type.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="JsonStringValueNotWellFormed" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/JsonStringValueNotWellFormed">
+				<NamedResource name="JsonStringValueNotWellFormed" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/JsonStringValueNotWellFormed">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Json string value not well formed.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="LoadContentNotCalled" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/LoadContentNotCalled">
+				<NamedResource name="LoadContentNotCalled" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/LoadContentNotCalled">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>LoadContent has not been called before Update/Draw.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="NonPremiumWithNoApplicationId" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/NonPremiumWithNoApplicationId">
+				<NamedResource name="NonPremiumWithNoApplicationId" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/NonPremiumWithNoApplicationId">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Non-premium ads require the manager to be created with a non-null, non-empty applicationID.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="ObjectShouldHaveNoElements" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/ObjectShouldHaveNoElements">
+				<NamedResource name="ObjectShouldHaveNoElements" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/ObjectShouldHaveNoElements">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Object should have no elements yet, but it does.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="ParameterIsLessThanPermittedLength" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/ParameterIsLessThanPermittedLength">
+				<NamedResource name="ParameterIsLessThanPermittedLength" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/ParameterIsLessThanPermittedLength">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="ParameterNullOrEmpty" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/ParameterNullOrEmpty">
+				<NamedResource name="ParameterNullOrEmpty" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/ParameterNullOrEmpty">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Parameter is null or empty.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="ParseStackNotEmpty" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/ParseStackNotEmpty">
+				<NamedResource name="ParseStackNotEmpty" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/ParseStackNotEmpty">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="ParseStringNotANumber" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/ParseStringNotANumber">
+				<NamedResource name="ParseStringNotANumber" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/ParseStringNotANumber">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Not a valid number to be parsed.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="RectangleHeightNotSufficient" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/RectangleHeightNotSufficient">
+				<NamedResource name="RectangleHeightNotSufficient" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/RectangleHeightNotSufficient">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="RefreshCalledToSoon" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/RefreshCalledToSoon">
+				<NamedResource name="RefreshCalledToSoon" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/RefreshCalledToSoon">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Refresh may not be called more than once every {0} seconds.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="RefreshWhileEngaged" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/RefreshWhileEngaged">
+				<NamedResource name="RefreshWhileEngaged" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/RefreshWhileEngaged">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Manual refresh not permitted while ad is engaged.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="RefreshWhileRequestInProgress" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/RefreshWhileRequestInProgress">
+				<NamedResource name="RefreshWhileRequestInProgress" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/RefreshWhileRequestInProgress">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Refresh was triggered but another request is already in progress.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="RequestDataHasNullDataItem" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/RequestDataHasNullDataItem">
+				<NamedResource name="RequestDataHasNullDataItem" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/RequestDataHasNullDataItem">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>httpRequestData or its URL is null.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="RichMediaInfoNotFound" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/RichMediaInfoNotFound">
+				<NamedResource name="RichMediaInfoNotFound" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/RichMediaInfoNotFound">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Rich media information not found.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="StringContainsInvalidEscapeSequence" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/StringContainsInvalidEscapeSequence">
+				<NamedResource name="StringContainsInvalidEscapeSequence" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/StringContainsInvalidEscapeSequence">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>String contains invalid escape sequences.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="TextAdTitleNotFound" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/TextAdTitleNotFound">
+				<NamedResource name="TextAdTitleNotFound" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/TextAdTitleNotFound">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Mandatory title for text ad not found.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="TooManyImpressionUrls" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/TooManyImpressionUrls">
+				<NamedResource name="TooManyImpressionUrls" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/TooManyImpressionUrls">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Number of impression entries exceeds the limit: {0}.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="UnableToFitText" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/UnableToFitText">
+				<NamedResource name="UnableToFitText" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/UnableToFitText">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Unable to fit text in the given space.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="UnicodeCharacterTruncated" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/UnicodeCharacterTruncated">
+				<NamedResource name="UnicodeCharacterTruncated" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/UnicodeCharacterTruncated">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Unicode character is truncated.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="UnknownAdType" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/UnknownAdType">
+				<NamedResource name="UnknownAdType" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/UnknownAdType">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Unknown ad type: {0}.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="UnknownJsonToken" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/UnknownJsonToken">
+				<NamedResource name="UnknownJsonToken" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/UnknownJsonToken">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Unknown token encountered: {0}.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="UnknownRichMediaMimeType" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/ExceptionMessages/UnknownRichMediaMimeType">
+				<NamedResource name="UnknownRichMediaMimeType" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/ExceptionMessages/UnknownRichMediaMimeType">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Unknown rich media mime type recieved: {0}.</Value>
 					</Candidate>
 				</NamedResource>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="UIStrings">
-				<NamedResource name="AdSettings_CommandText" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_CommandText">
+				<NamedResource name="AdSettings_CommandText" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_CommandText">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Microsoft Advertising</Value>
 					</Candidate>
@@ -464,7 +464,7 @@
 						<Value>Microsoft Advertising</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdSettings_Flyout_OptedOut_Message1" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message1">
+				<NamedResource name="AdSettings_Flyout_OptedOut_Message1" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message1">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>You are currently opted out of personalized advertising from Microsoft. Click</Value>
 					</Candidate>
@@ -475,7 +475,7 @@
 						<Value>Tha thu a' diùltadh sanasachd phearsantaichte o Microsoft an-dràsta fhèin. Briog </Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdSettings_Flyout_OptedOut_Message2" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message2">
+				<NamedResource name="AdSettings_Flyout_OptedOut_Message2" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message2">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>to learn more about your choices.</Value>
 					</Candidate>
@@ -486,7 +486,7 @@
 						<Value> airson barrachd fiosrachaidh air na roghainnean.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdSettings_Flyout_OptedOut_Message_Here" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message_Here">
+				<NamedResource name="AdSettings_Flyout_OptedOut_Message_Here" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message_Here">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>here</Value>
 					</Candidate>
@@ -497,7 +497,7 @@
 						<Value>an-seo</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdSettings_Flyout_OptInSwitch_Header" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_Header">
+				<NamedResource name="AdSettings_Flyout_OptInSwitch_Header" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_Header">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Let Microsoft Advertising use my information to personalize ads in this app.</Value>
 					</Candidate>
@@ -508,7 +508,7 @@
 						<Value>Cleachdaidh Microsoft Advertising am fiosrachadh agam ach am faigh mi sanasachd phearsantaichte san aplacaid seo.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdSettings_Flyout_OptInSwitch_Off" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_Off">
+				<NamedResource name="AdSettings_Flyout_OptInSwitch_Off" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_Off">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>No</Value>
 					</Candidate>
@@ -519,7 +519,7 @@
 						<Value>Chan eil</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdSettings_Flyout_OptInSwitch_On" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_On">
+				<NamedResource name="AdSettings_Flyout_OptInSwitch_On" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_On">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Yes</Value>
 					</Candidate>
@@ -530,7 +530,7 @@
 						<Value>Tha</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdSettings_Flyout_Privacy" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_Privacy">
+				<NamedResource name="AdSettings_Flyout_Privacy" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_Privacy">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Privacy Statement</Value>
 					</Candidate>
@@ -541,7 +541,7 @@
 						<Value>Aithris na prìobhaideachd</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdSettings_Flyout_SectionName" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SectionName">
+				<NamedResource name="AdSettings_Flyout_SectionName" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SectionName">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Advertising settings</Value>
 					</Candidate>
@@ -552,7 +552,7 @@
 						<Value>Roghainnean na sanasachd</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdSettings_Flyout_SignInPrompt1" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt1">
+				<NamedResource name="AdSettings_Flyout_SignInPrompt1" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt1">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>You are currently signed out.</Value>
 					</Candidate>
@@ -563,7 +563,7 @@
 						<Value>Chan eil thu clàraichte a-staigh an-dràsta fhèin. </Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdSettings_Flyout_SignInPrompt2" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt2">
+				<NamedResource name="AdSettings_Flyout_SignInPrompt2" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt2">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>to enable personalized advertising in this app.</Value>
 					</Candidate>
@@ -574,7 +574,7 @@
 						<Value> airson sanasachd phearsantaichte a chur an comas san aplacaid seo.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdSettings_Flyout_SignInPrompt_SignIn" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt_SignIn">
+				<NamedResource name="AdSettings_Flyout_SignInPrompt_SignIn" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt_SignIn">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Sign-in</Value>
 					</Candidate>
@@ -585,7 +585,7 @@
 						<Value>Clàraich a-steach</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdSettings_Flyout_SignInPrompt_SignOut" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt_SignOut">
+				<NamedResource name="AdSettings_Flyout_SignInPrompt_SignOut" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt_SignOut">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Sign-out</Value>
 					</Candidate>
@@ -596,7 +596,7 @@
 						<Value>Clàraich a-mach</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdSettings_Flyout_StatusUnknown_Message" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_StatusUnknown_Message">
+				<NamedResource name="AdSettings_Flyout_StatusUnknown_Message" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_StatusUnknown_Message">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Your Microsoft account information is currently unavailable.</Value>
 					</Candidate>
@@ -607,7 +607,7 @@
 						<Value>Chan eil fiosrachadh a' chunntais Microsoft agad ri làimh an-dràsta fhèin.</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="AdSettings_Flyout_Title" uri="ms-resource://54108HamedSN.PersianStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_Title">
+				<NamedResource name="AdSettings_Flyout_Title" uri="ms-resource://7837Sarooj.FarsiStoryCollection/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_Title">
 					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
 						<Value>Advertising</Value>
 					</Candidate>
@@ -621,85 +621,85 @@
 			</ResourceMapSubtree>
 		</ResourceMapSubtree>
 		<ResourceMapSubtree name="Resources">
-			<NamedResource name="Group1Subtitle" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Group1Subtitle"/>
-			<NamedResource name="Group1Title" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Group1Title"/>
-			<NamedResource name="Group2Subtitle" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Group2Subtitle"/>
-			<NamedResource name="Group2Title" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Group2Title"/>
-			<NamedResource name="Group3Subtitle" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Group3Subtitle"/>
-			<NamedResource name="Group3Title" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Group3Title"/>
-			<NamedResource name="Group4Subtitle" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Group4Subtitle"/>
-			<NamedResource name="Group4Title" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Group4Title"/>
-			<NamedResource name="Group5Subtitle" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Group5Subtitle"/>
-			<NamedResource name="Group5Title" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Group5Title"/>
-			<NamedResource name="Group6Subtitle" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Group6Subtitle"/>
-			<NamedResource name="Group6Title" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Group6Title"/>
-			<NamedResource name="GroupDescription" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/GroupDescription"/>
-			<NamedResource name="HubSection1" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/HubSection1"/>
-			<NamedResource name="HubSection2" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/HubSection2"/>
-			<NamedResource name="HubSection3" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/HubSection3"/>
-			<NamedResource name="HubSection4" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/HubSection4"/>
-			<NamedResource name="HubSection5" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/HubSection5"/>
-			<NamedResource name="Item1Subtitle" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Item1Subtitle"/>
-			<NamedResource name="Item1Title" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Item1Title"/>
-			<NamedResource name="Item2Subtitle" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Item2Subtitle"/>
-			<NamedResource name="Item2Title" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Item2Title"/>
-			<NamedResource name="Item3Subtitle" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Item3Subtitle"/>
-			<NamedResource name="Item3Title" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Item3Title"/>
-			<NamedResource name="Item4Subtitle" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Item4Subtitle"/>
-			<NamedResource name="Item4Title" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Item4Title"/>
-			<NamedResource name="Item5Subtitle" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Item5Subtitle"/>
-			<NamedResource name="Item5Title" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Item5Title"/>
-			<NamedResource name="Item6Subtitle" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Item6Subtitle"/>
-			<NamedResource name="Item6Title" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Item6Title"/>
-			<NamedResource name="Item7Subtitle" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Item7Subtitle"/>
-			<NamedResource name="Item7Title" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Item7Title"/>
-			<NamedResource name="Item8Subtitle" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Item8Subtitle"/>
-			<NamedResource name="Item8Title" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Item8Title"/>
-			<NamedResource name="ItemContent" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/ItemContent"/>
-			<NamedResource name="ItemContentFormat" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/ItemContentFormat"/>
-			<NamedResource name="ItemDescription" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/ItemDescription"/>
-			<NamedResource name="NavigationFailedExceptionMessage" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/NavigationFailedExceptionMessage"/>
+			<NamedResource name="Group1Subtitle" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Group1Subtitle"/>
+			<NamedResource name="Group1Title" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Group1Title"/>
+			<NamedResource name="Group2Subtitle" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Group2Subtitle"/>
+			<NamedResource name="Group2Title" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Group2Title"/>
+			<NamedResource name="Group3Subtitle" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Group3Subtitle"/>
+			<NamedResource name="Group3Title" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Group3Title"/>
+			<NamedResource name="Group4Subtitle" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Group4Subtitle"/>
+			<NamedResource name="Group4Title" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Group4Title"/>
+			<NamedResource name="Group5Subtitle" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Group5Subtitle"/>
+			<NamedResource name="Group5Title" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Group5Title"/>
+			<NamedResource name="Group6Subtitle" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Group6Subtitle"/>
+			<NamedResource name="Group6Title" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Group6Title"/>
+			<NamedResource name="GroupDescription" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/GroupDescription"/>
+			<NamedResource name="HubSection1" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/HubSection1"/>
+			<NamedResource name="HubSection2" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/HubSection2"/>
+			<NamedResource name="HubSection3" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/HubSection3"/>
+			<NamedResource name="HubSection4" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/HubSection4"/>
+			<NamedResource name="HubSection5" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/HubSection5"/>
+			<NamedResource name="Item1Subtitle" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Item1Subtitle"/>
+			<NamedResource name="Item1Title" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Item1Title"/>
+			<NamedResource name="Item2Subtitle" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Item2Subtitle"/>
+			<NamedResource name="Item2Title" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Item2Title"/>
+			<NamedResource name="Item3Subtitle" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Item3Subtitle"/>
+			<NamedResource name="Item3Title" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Item3Title"/>
+			<NamedResource name="Item4Subtitle" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Item4Subtitle"/>
+			<NamedResource name="Item4Title" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Item4Title"/>
+			<NamedResource name="Item5Subtitle" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Item5Subtitle"/>
+			<NamedResource name="Item5Title" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Item5Title"/>
+			<NamedResource name="Item6Subtitle" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Item6Subtitle"/>
+			<NamedResource name="Item6Title" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Item6Title"/>
+			<NamedResource name="Item7Subtitle" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Item7Subtitle"/>
+			<NamedResource name="Item7Title" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Item7Title"/>
+			<NamedResource name="Item8Subtitle" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Item8Subtitle"/>
+			<NamedResource name="Item8Title" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Item8Title"/>
+			<NamedResource name="ItemContent" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/ItemContent"/>
+			<NamedResource name="ItemContentFormat" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/ItemContentFormat"/>
+			<NamedResource name="ItemDescription" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/ItemDescription"/>
+			<NamedResource name="NavigationFailedExceptionMessage" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/NavigationFailedExceptionMessage"/>
 			<ResourceMapSubtree name="DescriptionHeader">
-				<NamedResource name="Text" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/DescriptionHeader/Text"/>
+				<NamedResource name="Text" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/DescriptionHeader/Text"/>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="Header">
-				<NamedResource name="Text" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Header/Text"/>
+				<NamedResource name="Text" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Header/Text"/>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="Hub">
-				<NamedResource name="Header" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Hub/Header"/>
+				<NamedResource name="Header" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Hub/Header"/>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="ItemSubTitle">
-				<NamedResource name="Text" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/ItemSubTitle/Text"/>
+				<NamedResource name="Text" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/ItemSubTitle/Text"/>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="ItemTitle">
-				<NamedResource name="Text" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/ItemTitle/Text"/>
+				<NamedResource name="Text" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/ItemTitle/Text"/>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="LongText">
-				<NamedResource name="Text" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/LongText/Text"/>
+				<NamedResource name="Text" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/LongText/Text"/>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="Section1DescriptionText">
-				<NamedResource name="Text" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Section1DescriptionText/Text"/>
+				<NamedResource name="Text" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Section1DescriptionText/Text"/>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="Section1Header">
-				<NamedResource name="Header" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Section1Header/Header"/>
+				<NamedResource name="Header" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Section1Header/Header"/>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="Section1Subtitle">
-				<NamedResource name="Text" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Section1Subtitle/Text"/>
+				<NamedResource name="Text" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Section1Subtitle/Text"/>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="Section2Header">
-				<NamedResource name="Header" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Section2Header/Header"/>
+				<NamedResource name="Header" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Section2Header/Header"/>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="Section2UnderTitle">
-				<NamedResource name="Text" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Section2UnderTitle/Text"/>
+				<NamedResource name="Text" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Section2UnderTitle/Text"/>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="Section3Header">
-				<NamedResource name="Header" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Section3Header/Header"/>
+				<NamedResource name="Header" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Section3Header/Header"/>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="Section3Subtitle">
-				<NamedResource name="Text" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Section3Subtitle/Text"/>
+				<NamedResource name="Text" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Section3Subtitle/Text"/>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="Section4Header">
-				<NamedResource name="Header" uri="ms-resource://54108HamedSN.PersianStoryCollection/Resources/Section4Header/Header"/>
+				<NamedResource name="Header" uri="ms-resource://7837Sarooj.FarsiStoryCollection/Resources/Section4Header/Header"/>
 			</ResourceMapSubtree>
 		</ResourceMapSubtree>
 	</ResourceMap>

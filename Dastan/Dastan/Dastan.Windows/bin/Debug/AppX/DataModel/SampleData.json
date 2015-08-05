@@ -24,6 +24,22 @@
         "Content": ""
       },
       {
+        "UniqueId": "Group-1-Item-221",
+        "Title": "آبجی خانم",
+        "Subtitle": "صادق هدایت",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content": ""
+      },
+        {
+            "UniqueId": "Group-1-Item-222",
+            "Title": "آتش پرست",
+            "Subtitle": "صادق هدایت",
+            "ImagePath": "Assets/MediumGray.png",
+            "Description": " ",
+            "Content": ""
+        },
+      {
         "UniqueId": "Group-1-Item-3",
         "Title": "کچل کفتر باز",
         "Subtitle": "صمد بهرنگی",
@@ -335,7 +351,7 @@
         "Description": " ",
         "Content" : ""
       }
-
+      
     ]
   },
   {
@@ -517,6 +533,30 @@
       {
         "UniqueId": "Group-2-Item-22",
         "Title": "آدم مغرور",
+        "Subtitle": "آنتوان چخوف",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-221",
+        "Title": "مغروق",
+        "Subtitle": "آنتوان چخوف",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-222",
+        "Title": "تهيه كننده در زير كاناپه",
+        "Subtitle": "آنتوان چخوف",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": " ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-223",
+        "Title": "بچه ي تُخص",
         "Subtitle": "آنتوان چخوف",
         "ImagePath": "Assets/MediumGray.png",
         "Description": " ",
